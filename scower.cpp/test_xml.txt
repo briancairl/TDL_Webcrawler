@@ -1,0 +1,2175 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" >
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<script type="text/javascript">
+var eventName="";
+var qs=location.search.match(new RegExp("[\?\&]s=([^\&]*)(\&?)","i"));
+if(qs!=null && qs[1]){
+if(qs[1]=="t" || qs[1]=="ts"){
+eventName="c&linkid=59wn52";
+}else if(qs[1]=="b" || qs[1]=="bs"){
+eventName="c&linkid=hz0x7d";
+}
+}
+(new Image()).src = "http://track.reference.com/webtrack.gif?st=dict&pn=dic&ab=&ldid=0&qr=proof&ev=ps"+eventName+"&cb="+Math.floor((Math.random()*899999999)+100000000)+"&rf="+encodeURIComponent(document.referrer);
+</script>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="msvalidate.01" content="DF5542D7723770377E9ABFF59AC1DC97" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://dictionary.reference.com/opensearch_desc.xml" title="Dictionary.com" />
+<link rel="shortcut icon" href="http://static.sfdict.com/en/i/dictionary/newserp/favicon.ico" />
+<title>
+Proof | Define Proof at Dictionary.com
+</title>
+<!-- Add the following three tags inside head. -->
+<meta property="og:image" content="http://static.sfdict.com/sh/i/dict/social_logo.jpg" />
+<meta name="description" content="Proof definition, evidence sufficient to establish a thing as true, or to produce belief in its truth. See more."/>
+<meta name="keywords" content="proof, online dictionary, English dictionary, proof definition, define proof, definition of proof, proof pronunciation, proof meaning, proof origin, proof examples"/>
+<meta property="og:title" content="the definition of proof"/>
+<meta property="og:site_name" content="Dictionary.com"/>
+<meta property="og:image" content="http://static.sfdict.com/sh/i/dict/social_logo.jpg"/>
+<meta property="fb:app_id" content= "127444090629600"/>
+<meta property="fb:admins" content="100000304287730,109125464873" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dictionary.com/definition/proof" >
+<link rel="canonical" href="http://dictionary.reference.com/browse/proof"/>
+<link rel="stylesheet" href="http://dictionary.reference.com/dcss/dictionary/v5/newSerpStylesTopHeavy_c.r91526.css" type="text/css">
+<script type="text/javascript">
+showads=true;
+if(typeof(UserController)!="undefined"){ showads =(UserController.isPremium() && UserController.isLoggedIn())? false: true; }
+hashtable = {};
+hashtable['pagevariables']=["false","","false","","","dynamo.dictionary.com","","true",false,"reference.com","","","false","false","false","","false","dictionary.reference.com","false","dictionary","ask.reference.com","true","dicSerpRedesign2","false","false","dic","app.dictionary.com","app.dictionary.com/login/core","http://static.sfdict.com/en/i/dictionary/newserp/quiz_close.png","http://static.sfdict.com/en/i/dictionary/newserp/cw_out.png","true","true","","true","proof","dic","false","false",false,"false","false","false","dic","true","false","true"];
+dictionaryConsolidatedCookieList=new Array('dTlb','fC','rh','translangpair','regHP','dyn','freqcp','adblk');dictionaryConsolidatedCookieName='dcc';var elapsedAdRefrshTime = parseInt(10);
+var isResponsiveDesign ="false";var rsSpellSuggest ='false'; var width=screen.width;if(width >=1240){isResponsiveDesign= "true"; };
+if(showads===true){
+(function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
+arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
+O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
+e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
+var page_load_start = new Date();
+}
+_enableOptimizedHotword = true;
+</script>
+<script type="text/javascript">
+var _daisyClickTrackingEnabled = 'true';
+var _daisyClickTrackingStatus = 'on';
+// Daisy Click Event Object
+var DaisyInfo = window.DaisyInfo || {};
+DaisyInfo.clickURL = "click.reference.com";
+DaisyInfo.pickObjConversion = function(po) { return ""+h(po.lk)+"?clksite=dict&clkpage=dic&clkld=0&clkorgn=0&clkord="+h(po.io)+"&clkmod="+h(po.m)+"&clkitem="+enc(h(po.pt))+"&clkdest="+h(po.u);};
+DaisyInfo.nonRedirectPickObjConversion = function(po) { return "?site=dict&pageName=dic&ldid=0&module="+h(po.m)+"&linkIds="+h(po.lk);};
+</script>
+<script type="text/javascript">
+var _limitedDeployID = "";
+pageVal = {};
+pageVal['pagekey']=["daisyPK","http://dictionary.reference.com","proof","web","dic","browse",false,false,"http://static.sfdict.com/en/i/dictionary/shared6.png","dicColor","dictionary.reference.com","thesaurus.reference.com","www.reference.com","translate.reference.com"];
+</script>
+<script src="http://dictionary.reference.com/inc/js/dictionary/v4/dicSerpV5_c.r91559.js" type="text/javascript"></script>
+<script type="text/javascript">if(typeof($.noConflict) == 'function'){$.noConflict();}var $j=jQuery;</script>
+<script type="text/javascript">
+window.page_start_offset = new Date().getTime();
+window.DCOM_LD = "0";
+</script>
+<script type="text/javascript">
+if(showads){
+sratest=true;
+var asyncrender=true;
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+_sraAdStart=[];
+_sraAdEnd=[];
+(function() {
+var gads = document.createElement("script");
+gads.async = true;
+gads.type = "text/javascript";
+var useSSL = "https:" == document.location.protocol;
+gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+var node =document.getElementsByTagName("script")[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.cmd.push(function() {
+adSlot1 = googletag.defineSlot('5480/5480.iac.dictionary/search',[728, 90], "dcomad_top_728x90_0");
+adSlot1.addService(googletag.pubads());
+adSlot1.setTargeting("sz","728x90");
+adSlot1.setTargeting("pos","top");
+adSlot1.renderEnded = (function(fn,self){
+fn = typeof fn == 'function' ? fn : new Function
+return function(){
+// call GA user timing
+_sraAdEnd.push("e_728x90#"+(Number(new Date)));
+fn.apply(this,Array.prototype.slice.call(arguments))
+}
+})(adSlot1.renderEnded, this);
+adSlot2 = googletag.defineSlot('5480/5480.iac.dictionary/search',[300, 250], "dcomad_top_300x250_1");
+adSlot2.addService(googletag.pubads());
+adSlot2.setTargeting("sz","300x250");
+adSlot2.setTargeting("pos","top");
+adSlot2.renderEnded = (function(fn,self){
+fn = typeof fn == 'function' ? fn : new Function
+return function(){
+// call GA user timing
+_sraAdEnd.push("e_300x250#"+(Number(new Date)));
+fn.apply(this,Array.prototype.slice.call(arguments))
+}
+})(adSlot2.renderEnded, this);
+adSlot3 = googletag.defineSlot('5480/5480.iac.dictionary/search',[160, 600], "dcomad_mid_160x600");
+adSlot3.addService(googletag.pubads());
+adSlot3.setTargeting("sz","160x600");
+adSlot3.setTargeting("pos","mid");
+adSlot3.renderEnded = (function(fn,self){
+fn = typeof fn == 'function' ? fn : new Function
+return function(){
+// call GA user timing
+_sraAdEnd.push("e_160x600#"+(Number(new Date)));
+fn.apply(this,Array.prototype.slice.call(arguments))
+}
+})(adSlot3.renderEnded, this);
+if(true){
+adSlot4 = googletag.defineSlot('5480/5480.iac.dictionary/search',[300, 251], "dcomad_mid_300x251");
+adSlot4.addService(googletag.pubads());
+adSlot4.setTargeting("sz","300x251");
+adSlot4.setTargeting("pos","mid");
+adSlot4.renderEnded = (function(fn,self){
+fn = typeof fn == 'function' ? fn : new Function
+return function(){
+// call GA user timing
+_sraAdEnd.push("e_300x251#"+(Number(new Date)));
+fn.apply(this,Array.prototype.slice.call(arguments))
+}
+})(adSlot4.renderEnded, this);
+}
+adSlot5 = googletag.defineSlot('5480/5480.iac.dictionary/search',[300, 249], "dcomad_bottom_300x249");
+adSlot5.addService(googletag.pubads());
+adSlot5.setTargeting("sz","300x249");
+adSlot5.setTargeting("pos","bottom");
+adSlot5.renderEnded = (function(fn,self){
+fn = typeof fn == 'function' ? fn : new Function
+return function(){
+// call GA user timing
+_sraAdEnd.push("e_300x249#"+(Number(new Date)));
+fn.apply(this,Array.prototype.slice.call(arguments))
+}
+})(adSlot5.renderEnded, this);
+/*ADD PAGE LEVEL TARGETTING VALUES FOR DISPLAY ADS*/
+googletag.pubads().setTargeting("kw","proof");
+googletag.pubads().setTargeting("ld","1233");
+googletag.pubads().setTargeting("pv","0");
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+_sraAdStart.push("s_728x90#"+(page_start_offset));
+_sraAdStart.push("s_300x250#"+(page_start_offset));
+_sraAdStart.push("s_160x600#"+(page_start_offset));
+if(true){
+_sraAdStart.push("s_300x251#"+(page_start_offset));
+}
+_sraAdStart.push("s_300x249#"+(page_start_offset));
+}
+</script>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4036279-9']);
+_gaq.push(['_setDomainName','.reference.com']);
+_gaq.push(['_setAllowHash',false]);
+_gaq.push(['_setAllowLinker',true]);
+_gaq.push(['_setCustomVar',1,'LD','1233',2]);
+_gaq.push(['_setSiteSpeedSampleRate', 100]);
+if(false){
+var pageviewURL = "/error?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer
+_gaq.push(['_trackPageview', pageviewURL.toString()]);
+}else
+_gaq.push(['_trackPageview']);
+if(true){
+if(false){
+_gaq.push(['_trackEvent','midSerpAd','triggered']);
+}else {
+_gaq.push(['_trackEvent','midSerpAd','not triggered']);
+}
+}
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com'+ '/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<body id="promo_serpTo" class="dic_serpto" onload="initpage();">
+<style type="text/css"> #contouter{top: 0px;}</style>
+<div id="popup">
+<div id="pfav"></div>
+<div class="pS">Added to <a id="favLink1" href="http://app.dictionary.com/favorites">Favorites</a></div>
+</div>
+<div id="wrpT">
+<div id="wrapper"><div id="contnr">
+<div id="hlinT">
+<span class="devider"></span> <a class="sel" href="http://dictionary.reference.com/browse/proof" onmousedown="ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'tqks0v',io:'0',m:'dtab'})" id="dicttab">Dictionary</a><span class="devider"></span>
+<a href="http://thesaurus.com/browse/proof" onmousedown="ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'qxnxzj',io:'0',m:'ttab'})" id="thestab">Thesaurus</a><span class="devider"></span>
+<a href="http://dynamo.dictionary.com" onmousedown="ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'ihzyvr',io:'0',m:'dytab'})" id="dynamotab">Word Dynamo</a><span class="devider"></span>
+<a href="http://quotes.dictionary.com/" onmousedown="ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'wtcrk4',io:'0',m:'qtab'})" id="quotestab">Quotes</a><span class="devider"></span>
+<a href="http://www.reference.com/browse/proof" onmousedown="ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'rn6y6h',io:'0',m:'rtab'})" id="reftab">Reference</a><span class="devider"></span>
+<a href="http://translate.reference.com/translate?query=proof" onmousedown="ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'s6ljc3',io:'0',m:'trtab'})" id="transtab">Translator</a><span class="devider"></span>
+<a href="http://spanish.dictionary.com/" onmousedown="ask.dict.updateQuery(this,true);daisyTabPK(this,{lk:'kun0fl',io:'0',m:'sptab'})" style="border:none" id="spanishtab">Spanish</a><span class="devider"></span>
+</div>
+<div id="tpnvT">
+<a id="loginHeaderLink" style="padding-right:0px;" rel="nofollow" href="http://app.dictionary.com/login/core?source=header_dict&logindest=">Log In</a>
+<span class="bar bar1" style="height: 13px;display: inline-block;position: relative;border-left: 1px solid white;left:1px;top:2px;"></span>
+<a id="regLink" rel="nofollow" href="http://app.dictionary.com/signup/core?source=header_dict&logindest=">Sign Up</a>
+<span class="bar bar2" style="height: 13px;display: inline-block;position: relative;border-left: 1px solid white;top:2px;"></span><span class="prmsblT prmsblTn"></span><a onmousedown="return pk(this,{io:0,m:'hrdprem',ec:1,lk:'bz0r8y'})" href="http://app.dictionary.com/signup/premium?logindest=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Fproof">Premium </a>
+</div>
+</div>
+</div>
+<div id="hdrT">
+<div id="wraplogoform">
+<div id="logoimg">
+<a href="http://dictionary.reference.com" class="diclogo" onmousedown="return pk(this,{lk:'yg487x',io:'0',m:'dkscr'})"><div class="dlogo" title="Dictionary.com"></div></a>
+</div>
+<div id="logoform">
+<form action="/dic" onsubmit="return formcheck();">
+<div class="area-holderT">
+<input size="40" value="proof" id="q" autoComplete="off" type="text" onkeypress="make_blank();" name="q" onclick="make_blank();" onFocus="javascript:this.select();"/>
+<button type="submit" value="" ></button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="contouter">
+<div id="flyout" style="display: none;">
+<div class="flyt" id="fyt" onmousedown="promourl();"><span class="txt">Introducing a cool<br/>new way to learn!</span><div class="gear"></div></div>
+</div>
+<div id="cwrp">
+<div id="snv">
+</div>
+<div id="de">
+<script type="text/javascript">
+var _todaysDate= "February 15, 2014";
+ask.dict.loggedIn=false;
+var hotwordSerpRD = false;
+ask.dict.isHotWordEnabled = true;
+hotwordSerpRD = true;
+ask.dict.hotWordImgURL = "";
+headerlinkUpdates();
+updatePremiumlink();
+var _sourcepg ="dic_browse";
+var _countryState = "NJ_US";
+var _translatemaxlength ="300";
+var _footerShown=false;
+var _impressionlogged = false;
+var pagekey = "dicSerpRedesign2";
+var takeOverEnabled = false;
+var ldtestId ="0";
+var csaAttr="default";
+var trackads="false";
+</script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display('dcomad_top_728x90_0');
+});
+</script>
+<script type="text/javascript">
+var quantSegs ='';
+var _qevents = _qevents || [];
+document.getElementById('q').value="proof";
+</script>
+<script type="text/javascript">
+isIE=false;
+isTlb = false;
+isToolbarInstalled(isIE,isTlb);
+</script>
+<center>
+<div id="dmain">
+
+
+<div id="results">
+<div id="diduno"></div>
+<div id="contentResults">
+<div id="dcomad_top_728x90_0">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display('dcomad_top_728x90_0');
+});
+</script>
+</div>
+<div id="Headserp" class="Headserp">
+<span class="hdrrmn" style="float:left;">
+<span><h1 id="query_h1" class="query_h1">proof</h1></span>
+<span id="aud" class="aud" title="Listen to the pronunciation of proof"><span class="speaker" audio="http://static.sfdict.com/dictstatic/dictionary/audio/luna/P08/P0830800.mp3" default="http://dictionary.reference.com/audio.html/lunaWAV/P08/P0830800"><noscript><a onmousedown="spk(this,{lk:'nx1fkx',en:'wotdau',io:'0',b:'wotd',tp:'lrl',m:'wotdau'})" href="#"></a><a target="_blank" href="http://dictionary.reference.com/audio.html/lunaWAV/P08/P0830800"><img border="0" src="http://static.sfdict.com/dictstatic/g/d/speaker.gif"></a></noscript><a class="audspk" href="http://static.sfdict.com/dictstatic/dictionary/audio/luna/P08/P0830800.mp3"></a></span> </span>
+<span title="Add to Favorites">
+<span id="nonfav"></span>
+</span>
+<span id="fcimgh" class="fcimgh">
+<a class="examsent" href="http://www.reference.com/example-sentences/proof" onmousedown="return pk(this,{lk:'5q219k',io:'0',m:'exsen14'});" target="_blank" title="See Example Sentences">Use <b>Proof</b> in a sentence</a>
+</span>
+</span>
+<span class="hdrsc" style="float:left;">
+<span class="mdbt" onmouseover="enablemediabuttons()" style="display:none"></span>
+<span id="hdmd" class="hdmd">
+<span class="hdfb"></span>
+<span class="hdg">
+<g:plusone size="medium" href="http://dictionary.reference.com/browse/proof" count="true" callback="plusone_vote"></g:plusone>
+</span>
+</span>
+</span>
+</div>
+<div id="midRail">
+<div id="rpane">
+
+<script type="text/javascript"> var _afcload='false';</script>
+<style type="text/css">#adcontainer1{min-height:108px;}</style>
+<style>
+.slDL{
+font-family: "Verdana";
+font-size: 12px;
+color: #404040;
+line-height:16px;
+}
+</style>
+<div id="adcontainer1"></div>
+<script type="text/javascript">
+var modulearray = new Array();
+modulearray['top']='gslT';modulearray['bot']='gslB';modulearray['mid']='gslM';modulearray['mid1']='gslM1';modulearray['mid2']='gslM2';modulearray['mid3']='gslM3';modulearray['default']='gslT';
+var _adcount =2;
+function getNumberofAds(numAdsmap){
+for(var name in numAdsmap){
+_adcount=numAdsmap[name];
+}
+$j('#adsreceived').append(_adcount);
+}
+var pageOptions ={
+"pubId": "aj-lexico-dict-testing",
+"channel": "channel-01",
+"query": "proof",
+"width": "472px",
+"adtest": "off",
+"hl": "en",
+"domainLinkAboveDescription": true,
+"rightHandAttribution": true,
+"attributionText":"Ads",
+'fontFamilyAttribution' : 'arial',
+"fontSizeAttribution":"9px",
+'numRepeated' :0,
+'clickableBackgrounds':true,
+'plusOnes':true,
+'sellerRatings' :true,
+'siteLinks' : true,
+'adPage' :1,
+'detailedAttribution' : false,
+'heightConstrained' : true,
+'colorAttribution' : '#666666',
+'adsResponseCallback':getNumberofAds
+};
+var adblock1= {
+"container": "adcontainer1",
+'verticalSpacing' : 2,
+'longerHeadlines' : false,
+"fontFamily": "verdana",
+"fontSizeTitle": 15,
+"colorTitleLink": "#4089E0",
+"colorBackground": "#FEFEF4",
+"fontSizeDomainLink": 14,
+"colorDomainLink": "#000000",
+"titleBold":false,
+"fontSizeDescription": 12,
+'lineHeightTitle' : 15,
+'lineHeightDescription' : 13,
+'lineHeightDomainLink' : 14,
+//'attributionSpacingBelow' : 5,
+"colorText": "#404040",
+"maxTop":2,
+'clicktrackUrl' : 'http://click.reference.com/track/click?site=dict&pageName=dic&origin=0&ldid=0&module='+modulearray['top']+'&linkIds=hvmna',
+'noAdLoadedCallback' : function(containerName, adsLoaded) {
+if (!adsLoaded) {
+try {
+$j('#gsldebug').css('display','none');
+_afcload='true';
+$j("#afcdeuginfo").css("display","block");
+$j(document).ready(function(){
+ghostwriter(
+"sfdkf_pt1",
+{
+insertType: "append",
+script: { src: "http://pagead2.googlesyndication.com/pagead/show_ads.js" }
+}
+);
+});
+} catch (exception) {
+(new Image()).src = "http://click.reference.com/track/gslerror?site=dict&pageName=dic&origin=0&ldid=0&error="+exception;
+}
+}
+},
+'adLoadedCallback' : function(containerName, adsLoaded) {
+if (adsLoaded) {
+try {
+_gslHeight=$j("#adcontainer1").height();
+if(document.getElementById('adcontainer1')){
+document.getElementById('adcontainer1').style.minHeight='0px';
+}
+daisy_afs_match();
+} catch (exception) {
+(new Image()).src = "http://click.reference.com/track/gslerror?site=dict&pageName=dic&origin=0&ldid=0&afserror="+exception;
+}
+}
+}
+};
+_googCsa('ads', pageOptions,adblock1);
+var daisyAfsMatchArray = new Array();
+daisyAfsMatchArray['top']=_adcount;
+var afslinkID='hvmna';
+var afsbtmConstantArray = new Array();
+afsbtmConstantArray['top']='gslT';afsbtmConstantArray['bot']='gslB';afsbtmConstantArray['mid']='gslM';afsbtmConstantArray['mid1']='gslM1';afsbtmConstantArray['mid2']='gslM2';afsbtmConstantArray['mid3']='gslM3';
+var DAISYCONST = {
+BLOCK : {key: 'block', value:'spl'},
+TEMPLATE: {key: 'template'},
+MODULES : {key: 'modules'},
+DISPLAY_COUNT : {key: 'displayCount'},
+COMMA_DELIMITER : {value:','},
+URL : {value:'/track/impressionClient'}
+};
+function getafsBlockTemplateModule(daisyAfsMatchArray){
+var block = '';
+var template = '';
+var modules = '';
+var displayCount = 0;
+var btmArray = new Array();
+var count = 0;
+try{
+for (var i in daisyAfsMatchArray) {
+if(count==0){
+block = DAISYCONST.BLOCK.value;
+template = i;
+displayCount = daisyAfsMatchArray[i];
+modules = afsbtmConstantArray[i];
+}else{
+block += DAISYCONST.COMMA_DELIMITER.value + DAISYCONST.BLOCK.value;
+template += DAISYCONST.COMMA_DELIMITER.value + i;
+modules += DAISYCONST.COMMA_DELIMITER.value + afsbtmConstantArray[i];
+displayCount += DAISYCONST.COMMA_DELIMITER.value + daisyAfsMatchArray[i];
+}
+count++;
+}
+btmArray[DAISYCONST.BLOCK.key]= block;
+btmArray[DAISYCONST.TEMPLATE.key]= template;
+btmArray[DAISYCONST.MODULES.key]= modules;
+btmArray[DAISYCONST.DISPLAY_COUNT.key]= displayCount;
+return btmArray;
+}catch(err){
+return new Array();
+}
+}
+function appendURLKeyAndValue(desgURL,key,value){
+if(null!=value && ''!=value){
+if(desgURL.indexOf("?")==-1)
+desgURL= desgURL+"?"+key+"="+value;
+else
+desgURL= desgURL+"&"+key+"="+value;
+}
+return desgURL;
+}
+function daisy_afs_match() {
+var _matchUrl= DAISYCONST.URL.value+"?site=dict&queryId=A930DB99EB3181C82B90CFC452FFFB7B&pageName=dic&impressionId=Uv/evUTFsLx3oJZG&ldid=0";
+var btmArray = getafsBlockTemplateModule(daisyAfsMatchArray);
+for (var i in btmArray) {
+_matchUrl = appendURLKeyAndValue(_matchUrl,i,btmArray[i]);
+}
+_csaHeight='';
+if(typeof(_gslHeight)!='undefined'){
+_csaHeight="&csaHeight="+_gslHeight;
+}
+_linkIds='';
+if(typeof(afslinkID)!='undefined'){
+_linkIds="&linkIds="+afslinkID;
+}
+var urlPrefix = "http://click.reference.com";
+_matchUrl = urlPrefix + _matchUrl+_linkIds+_csaHeight;
+(new Image()).src= _matchUrl;
+}
+</script>
+
+<script type="text/javascript">
+function ss(w){window.status=w;return true;}
+function cs(){window.status='';}
+</script>
+<style type="text/css">
+</style>
+<style>
+.slDL{
+font-family: "Verdana";
+font-size: 12px;
+color: #404040;
+line-height:16px;
+}
+</style>
+<script language="JavaScript" type="text/javascript">
+var longDescriptionPresent = false;
+var topHeavyCharCount = 60;
+var daisyMatchArray = new Array();
+var modConstantArray = new Array();
+var linkConstantArray = new Array();
+modConstantArray['top']='afcT';modConstantArray['bot']='afcB';modConstantArray['mid']='afcM';modConstantArray['mid1']='afcM1';modConstantArray['mid2']='afcM2';modConstantArray['mid3']='afcM3';
+linkConstantArray['top']='oq6zwg';linkConstantArray['bot']='e8zuyk';linkConstantArray['mid']='tdkbd2';linkConstantArray['mid1']='svydps';linkConstantArray['mid2']='j6rvjh';linkConstantArray['mid3']='u3d5w0';
+function render_ads(position, num, startIdx, endIdx) {
+var s = '';
+if(!num && !window['ajsl_ads']) {
+return;
+}
+var top=true;
+if(position == 'top' || position.indexOf('mid')!=-1){
+top=true;
+}else if(position == 'bot'){
+top=false;
+}
+window['sponsoredResultText'] = '<div class="the_label"></div>'
+var prefix = '\n<div class="spl_unshd_NC" id="'+position+'">';
+window['spLabel'] = 'Ads';
+if(num==1){
+window['spLabel'] = 'Ad';
+}
+var suffix = '</div>';
+var template = '<div class="slL">{label}</div> <div class="slANC" style="cursor:default;"> <a id="gg_{counter}" href="{url}" rel="nofollow" onMouseDown="{pickJavascript}" class="nu1NC" style="width:241px"> <span class="slTNC">{title}</span> </a> <br> <a id="gg_{counter}" href="{url}" rel="nofollow" onMouseDown="{pickJavascript}" class="nu1NC" style="width:241px"> <span class="slBNC">{visibleUrl}</span> </a> <br> <span class="slD">{abstract}</span> </div>';
+s += prefix;
+var ads = window['google_ads'];
+var ajslAds=window['ajsl_ads'];
+var spnrAds=window['spnr_ads'];
+for(var i = 0; i < ads.length;i++) {
+if((ads[i].line2.length+ads[i].line3.length) >= topHeavyCharCount){
+longDescriptionPresent = true;
+break;
+}
+}
+if(ajslAds){
+for(var i = 0; i < ajslAds.length;i++) {
+s += render_inhouse_ad(top,ajslAds , template,i)
+}
+}
+var ec=0;
+for(var i = startIdx, j=0; j<num && i <= endIdx;j++, i++) {
+s += render_ad(top, ads, template, startIdx, i, "gsl", num, 0,j,position);
+ec++;
+}
+if(position=='top' || position=='bot' || position.indexOf('mid')!=-1)
+daisyMatchArray[position]=num;
+window['ad_count_'+position]=ec;
+if(spnrAds){
+for(var i = 0; i < spnrAds.length;i++) {
+s += render_inhouse_ad(top,spnrAds ,template,i,true)
+}
+}
+//reset in house text ads to empty so that it will not be printed in the section where it is not required
+window['ajsl_ads']=null;
+window['spnr_ads']=null;
+s += suffix;
+if(true){
+$j('#sfdkf_pt1').append(s);
+afc_MatchTrack();
+}
+else {
+document.write(s);
+}
+if(false){
+document.getElementById('top').style.borderTop = "none";
+}
+}
+function render_ad(top, ads, template, offset, i, type, ec, set,j,position) {
+var displayAdLabelTop = 'false';
+var labelPosition = 'top';
+var fragment = template;
+var pickLog = "daisyPK(this, {en:'{en}',io:'{io}',b:'spl',tp:'(position)',lk:'{lk}',m:'{m}'}, '{ggid}')";
+if(labelPosition == 'top'){
+if(window['spShadedLabel'] && offset == i && set == 0) {
+fragment = fragment.replace(/\{label\}/, spShadedLabel);
+} else if(window['spLabel'] && (j==0)){
+fragment = fragment.replace(/\{label\}/, spLabel);
+}else {
+fragment = fragment.replace(/\{label\}/,"");
+}
+}else{
+if(window['spShadedLabel'] && offset == i && set == 0) {
+fragment = fragment.replace(/\{label\}/, spShadedLabel);
+} else if(window['spLabel'] && (offset+j == (ads.length - 1) || j == ec-1)){
+fragment = fragment.replace(/\{label\}/, spLabel);
+}else {
+fragment = fragment.replace(/\{label\}/,"");
+}
+}
+for(var k=0;fragment.indexOf("{pickJavascript}")!= -1;k++){
+fragment = fragment.replace(/\{pickJavascript\}/,(ads[i].adType == 'ta')?ads[i].pickJavascript:pickLog);
+fragment = fragment.replace(/\(position\)/,position);
+fragment = fragment.replace(/\{counter\}/,(top?"t_":"b_") + (i+1));
+if(position.indexOf("mid")!=-1){
+fragment = fragment.replace(/\{io\}/,i-offset);
+}else {
+fragment = fragment.replace(/\{io\}/, offset ? offset+i : i);
+}
+}
+fragment = fragment.replace(/\{en\}/g, "gc");
+fragment = fragment.replace(/\{ggid\}/g, "gg_" + (top?"t_":"b_") + (i+1));
+if(_daisyClickTrackingEnabled==='true'){
+fragment = fragment.replace(/\{m\}/g,modConstantArray[position]);
+fragment = fragment.replace(/\{lk\}/g,linkConstantArray[position]);
+}else{
+fragment = fragment.replace(/\{ec\}/g, ec);
+}
+fragment = fragment.replace(/\{url\}/g, ads[i].url);
+fragment = fragment.replace(/\{visibleUrl\}/, ads[i].visible_url.length > 65 ? ads[i].visible_url.substring(0, 65) : ads[i].visible_url);
+if(false){
+fragment = fragment.replace(/\{ncbmwidth\}/,"width:px");
+fragment = fragment.replace(/\{ncbm1width\}/,"width:px");
+}
+ads[i].line1 = highlightQuery(ads[i].line1);
+var dbgInfo="";
+if(false){
+adt = 'afc';
+if(ads[i].adType != null && 'ta' == ads[i].adType){
+adt = 'ta';
+}
+dbgInfo="[id=" + ads[i].n +",type="+adt+"]";
+}
+fragment = fragment.replace(/\{title\}/, dbgInfo+ads[i].line1);
+ads[i].line2 = highlightQuery(ads[i].line2);
+ads[i].line3 = highlightQuery(ads[i].line3);
+if(longDescriptionPresent){
+fragment = fragment.replace(/class=\"slD\"/,"class=\"slDL\"");
+}
+fragment = fragment.replace(/\{abstract\}/, ads[i].line2 + " " + ads[i].line3);
+return fragment;
+}
+function render_inhouse_ad(top, ads, template,i,label) {
+if(!label){
+label= false;
+}
+var fragment = template;
+if(window['spShadedLabel'] && i==window['ad_config_top']+ads.length-1) {
+fragment = fragment.replace(/\{label\}/, spShadedLabel);
+} else if((window['spLabel'] && i==window['ad_config_top']+ads.length-1 ) || label){
+fragment = fragment.replace(/\{label\}/, spLabel);
+}else {
+fragment = fragment.replace(/\{label\}/,"");
+}
+for(var k=0;fragment.indexOf("{pickJavascript}")!= -1;k++){
+fragment = fragment.replace(/\{pickJavascript\}/,ads[i].pickJavascript);
+fragment = fragment.replace(/\(position\)/,"");
+fragment = fragment.replace(/\{counter\}/,"");
+fragment = fragment.replace(/\{io\}/, i);
+}
+fragment = fragment.replace(/\{en\}/g, ads[i].adType);
+fragment = fragment.replace('gg_', ads[i].adType+"_" + i);
+fragment = fragment.replace(/\{ec\}/g, ads.length);
+fragment = fragment.replace(/\{url\}/g, ads[i].url);
+fragment = fragment.replace(/\{visibleUrl\}/, ads[i].visible_url.length > 65 ? ads[i].visible_url.substring(0, 65) : ads[i].visible_url);
+if(false){
+fragment = fragment.replace(/\{ncbmwidth\}/,"width:px");
+fragment = fragment.replace(/\{ncbm1width\}/,"width:px");
+}
+ads[i].line1 = highlightQuery(ads[i].line1);
+var dbgInfo="";
+if(false){
+dbgInfo="[id=" + ads[i].n +",type="+ads[i].adType +"]";
+}
+fragment = fragment.replace(/\{title\}/, dbgInfo+ads[i].line1);
+ads[i].line2 = highlightQuery(ads[i].line2);
+ads[i].line3 = highlightQuery(ads[i].line3);
+if(longDescriptionPresent){
+fragment = fragment.replace(/class=\"slD\"/,"class=\"slDL\"");
+}
+fragment = fragment.replace(/\{abstract\}/, ads[i].line2 + " " + ads[i].line3);
+return fragment;
+}
+var ajslAds=new Array();
+var spnrAds=new Array();
+var repeatAds="true";
+function debug_info_update_render_ads(){
+if(document.getElementById('afc_ads_recieved')){
+var no_of_ads_debug_info = document.createTextNode(google_ads.length);
+document.getElementById('afc_ads_recieved').appendChild(no_of_ads_debug_info);
+}
+}
+function google_ad_request_done(google_ads) {
+debug_info_update_render_ads();
+window['google_ads'] = google_ads;
+inhouseAds = false;
+if(window['google_ads'].length < 4)
+{
+inhouseAds=true;
+}
+getInHouseAds();
+window['ajsl_ads']=ajslAds;
+window['spnr_ads']=spnrAds;
+if(google_ads.length != 0) {
+apply_ad_config(google_ads.length);
+render_ads('top', window['ad_config_top'],window['ad_config_top_startIdx'],window['ad_config_top_endIdx']);
+}
+if(document.getElementById('adcontainer1')){document.getElementById('adcontainer1').style.minHeight='0px';}
+}
+function InHouseAd() {
+this.url = "";
+this.visible_url = "";
+this.line1 = "";
+this.line2 = "";
+this.line3 = "";
+this.pickJavascript = "";
+this.adType = "";
+this.n = "";
+}
+function getInHouseAds()
+{
+if(inhouseAds){
+}
+}
+function apply_ad_config(num) {
+window['ad_config_top'] = Math.min(5, num);
+window['ad_config_mid1'] = window['ad_config_mid2'] = num - window['ad_config_top'];
+window['ad_config_mid2'] = 0;
+window['ad_config_bot'] = 0;
+window['ad_config_top_startIdx'] = 0;
+window['ad_config_top_endIdx'] = window['ad_config_mid1_startIdx'] = window['ad_config_mid2_startIdx'] = window['ad_config_top'];
+window['ad_config_mid1_endIdx'] = window['ad_config_mid2_endIdx'] = num;
+window['ad_config_bot_startIdx'] = window['ad_config_bot_endIdx'] = 0;
+}
+if(false){
+google_ad_client = 'ca-aj-lexico-dict';
+google_ad_channel = 'channel-01';
+google_ad_output = 'js';
+google_max_num_ads = '2';
+google_page_url = '';
+google_num_ads_recieved= '';
+google_ad_type = 'text';
+google_image_size = '';
+google_language = '';
+google_country = '';
+google_encoding = 'utf8';
+google_safe = 'high';
+google_adtest = 'off';
+google_hints = '';
+google_kw = 'proof';
+google_kw_type = 'broad';
+google_ad_section = 'default';
+}else{
+google_ad_client = 'ca-aj-lexico-dict';
+google_ad_channel = 'channel-01';
+google_ad_output = 'js';
+google_ad_type = 'text';
+google_max_num_ads ='2';
+google_safe = 'high';
+google_encoding = 'utf8';
+google_hints = 'proof';
+google_ad_section='def';
+google_adtest = 'off';
+}
+var word_arr ;
+var word_arr_len ;
+function highlightQuery(input_str) {
+var queryTokenArray = "proof,";
+var tok_arr = queryTokenArray.split(",");
+for(tok_arr_idx=0; tok_arr_idx < tok_arr.length-1; tok_arr_idx ++) {
+if(isCombinationWord(tok_arr[tok_arr_idx])){
+word_arr = tok_arr[tok_arr_idx].split("-");
+word_arr_len = word_arr.length;
+first_pos = input_str.toLowerCase().indexOf(word_arr[0],0);
+if(first_pos !=-1) {
+input_str = highlightCombinationWords(input_str,first_pos);
+}
+}
+else {
+first_pos = input_str.toLowerCase().indexOf(tok_arr[tok_arr_idx],0);
+if(first_pos != -1) {
+input_str = highlightSimpleWords(input_str,tok_arr[tok_arr_idx],first_pos);
+}
+}
+}
+return input_str;
+}
+function isCombinationWord(word){
+if(word.indexOf("-") != -1){
+return true;
+}else{
+return false;
+}
+}
+function isAlpha(ch) {
+if (ch != null && ch.match(/^[a-zA-Z0-9\<\>]+$/)){
+return true;
+}
+return false;
+}
+function isQueryinInput(firstindex, input_str, j){
+for(i=firstindex; i< input_str.length ; ++i) {
+var currindex = i;
+if(!isAlpha(input_str.charAt(i))) {
+if(firstindex == currindex) {/* 2 consecutive non-alpha characters */
+firstindex++;
+}
+else {
+if(word_arr[j] != input_str.substring(firstindex,currindex).toLowerCase())
+return -1;
+if (j == word_arr_len-1) return currindex;
+else return isQueryinInput(currindex+1,input_str,++j);
+}
+}
+}
+if(j < word_arr_len) {
+if(word_arr[j] != input_str.substring(firstindex,currindex+1).toLowerCase())
+return -1;
+}
+return (currindex + 1) ;
+}
+function highlightCombinationWords(input_str,first_pos) {
+exactmatch = isQueryinInput(first_pos+word_arr[0].length,input_str,1) ;
+if(exactmatch !=-1 ) {
+bold_str = "<b>" + input_str.substring(first_pos,exactmatch) + "</b>";
+input_str = input_str.substring(0,first_pos) + bold_str + input_str.substring(exactmatch);
+next_pos = input_str.toLowerCase().indexOf(word_arr[0],exactmatch+7);
+while(next_pos != -1) {
+return highlightCombinationWords(input_str,next_pos);
+}
+}
+return input_str;
+}
+function highlightSimpleWords(input_str,token, first_pos) {
+var end_pos = first_pos + token.length;
+if(!isAlpha(input_str.charAt(end_pos)) && !isAlpha(input_str.charAt(first_pos-1))){
+bold_str = "<b>" + input_str.substring(first_pos,end_pos) + "</b>";
+input_str = input_str.substring(0,first_pos) + bold_str + input_str.substring(end_pos);
+next_pos = input_str.toLowerCase().indexOf(token,end_pos+7);
+}
+else {
+next_pos = input_str.toLowerCase().indexOf(token,end_pos);
+}
+while(next_pos != -1) {
+return highlightSimpleWords(input_str,token,next_pos);
+}
+return input_str;
+}
+$j("#afcdeuginfo").css("display","none");
+</script>
+<div id="sfdkf_pt1"></div>
+<script type="text/javascript">
+(function($){
+$.fn.afcAsync_load = function(){
+ghostwriter(
+"sfdkf_pt1",
+{
+insertType: "append",
+script: { src: "http://pagead2.googlesyndication.com/pagead/show_ads.js" }
+}
+);
+}
+})(jQuery);
+function afc_MatchTrack(){
+var btmConstantArray = new Array();
+btmConstantArray['top']='afcT';btmConstantArray['bot']='afcB';btmConstantArray['mid']='afcM';btmConstantArray['mid1']='afcM1';btmConstantArray['mid2']='afcM2';btmConstantArray['mid3']='afcM3';
+var DAISYCONST = {
+BLOCK : {key: 'block', value:'spl'},
+TEMPLATE: {key: 'template'},
+MODULES : {key: 'modules'},
+LINKIDS : {key: 'linkIds'},
+DISPLAY_COUNT : {key: 'displayCount'},
+COMMA_DELIMITER : {value:','},
+URL : {value:'/track/impressionClient'}
+};
+function getBlockTemplateModule(daisyMatchArray){
+var block = '';
+var template = '';
+var modules = '';
+var linkids = '';
+var displayCount = 0;
+var btmArray = new Array();
+var count = 0;
+try{
+for (var i in daisyMatchArray) {
+if(count==0){
+block = DAISYCONST.BLOCK.value;
+template = i;
+displayCount = daisyMatchArray[i];
+modules = btmConstantArray[i];
+if(typeof(linkConstantArray)!="undefined" && linkConstantArray[i] !="undefined"){
+linkids = linkConstantArray[i];
+}
+}else{
+block += DAISYCONST.COMMA_DELIMITER.value + DAISYCONST.BLOCK.value;
+template += DAISYCONST.COMMA_DELIMITER.value + i;
+modules += DAISYCONST.COMMA_DELIMITER.value + btmConstantArray[i];
+displayCount += DAISYCONST.COMMA_DELIMITER.value + daisyMatchArray[i];
+if(typeof(linkConstantArray)!="undefined" && linkConstantArray[i] !="undefined"){
+linkids+=linkConstantArray[i];
+}
+}
+count++;
+}
+btmArray[DAISYCONST.BLOCK.key]= block;
+btmArray[DAISYCONST.TEMPLATE.key]= template;
+btmArray[DAISYCONST.MODULES.key]= modules;
+btmArray[DAISYCONST.LINKIDS.key]= linkids;
+btmArray[DAISYCONST.DISPLAY_COUNT.key]= displayCount;
+return btmArray;
+}catch(err){
+return new Array();
+}
+}
+function appendURLKeyAndValue(desgURL,key,value){
+if(null!=value && ''!=value){
+if(desgURL.indexOf("?")==-1)
+desgURL= desgURL+"?"+key+"="+value;
+else
+desgURL= desgURL+"&"+key+"="+value;
+}
+return desgURL;
+}
+function daisy_afc_match() {
+var _matchUrl= DAISYCONST.URL.value+"?site=dict&queryId=A930DB99EB3181C82B90CFC452FFFB7B&pageName=dic&impressionId=Uv/evUTFsLx3oJZG&ldid=0";
+var btmArray = getBlockTemplateModule(daisyMatchArray);
+for (var i in btmArray) {
+_matchUrl = appendURLKeyAndValue(_matchUrl,i,btmArray[i]);
+}
+var urlPrefix = "http://click.reference.com";
+_matchUrl = urlPrefix + _matchUrl;
+(new Image()).src= _matchUrl;
+}
+//call to daisy afc match tracking
+daisy_afc_match();
+}
+</script>
+
+<div>
+<div class="sep_top shd_hdr pb2 luna">
+<div class="KonaBody" style="padding-left:0px;">
+<div class="lunatext results_content frstluna">
+<!-- google_ad_section_start --><div class="luna-Ent"> <div class="header"> <h2 class="me" data-syllable="proof">proof</h2><sup></sup> <span class="pronset"><span class="speaker" audio="http://static.sfdict.com/dictstatic/dictionary/audio/luna/P08/P0830800.mp3" default="http://dictionary.reference.com/audio.html/lunaWAV/P08/P0830800"><noscript><a onmousedown="spk(this,{lk:'nx1fkx',en:'wotdau',io:'0',b:'wotd',tp:'lrl',m:'wotdau'})" href="#"></a><a target="_blank" href="http://dictionary.reference.com/audio.html/lunaWAV/P08/P0830800"><img border="0" src="http://static.sfdict.com/dictstatic/g/d/speaker.gif"></a></noscript><a class="audspk" href="http://static.sfdict.com/dictstatic/dictionary/audio/luna/P08/P0830800.mp3"></a></span> <span class="show_ipapr" style="display: none;"><span class="prondelim">/</span><span class="pron">pruf</span><span class="prondelim">/</span> <a class="questionmark" href="/help/luna/IPA_pron_key.html" target="_blank"></a> <span class="pron_toggle" style="display:none;"><a class="pronlink" onclick="javascript:show_sp()" onmouseout="status='';return true;" onmouseover="status='Click to toggle pronunciation';return true;" alt="Toggle for Spelled" title="Click to show spelled">Show Spelled</a> </span></span><span class="show_spellpr" style="display: inline;"><span class="prondelim">[</span><span class="pron">proof</span><span class="prondelim">]</span> <a class="questionmark" href="/help/luna/Spell_pron_key.html" target="_blank"></a> <span class="pron_toggle" style="display: none;"><a class="pronlink" onclick="javascript:show_ip()" onmouseout="status='';return true;" onmouseover="status='Click to toggle pronunciation';return true;" alt="Toggle for IPA" title="Click to show IPA">Show IPA</a> </span></span></span> </div> <div class="body"> <div class="pbk"> <span class="pg">noun </span> <div class="luna-Ent"><span class="dnindex">1.</span><div class="dndata">evidence sufficient to establish a thing as true, or to produce belief in its truth. </div></div><div class="luna-Ent"><span class="dnindex">2.</span><div class="dndata">anything serving as such evidence: <span class="ital-inline">What proof do you have?</span> </div></div><div class="luna-Ent"><span class="dnindex">3.</span><div class="dndata">the act of testing or making trial of anything; test; trial: <span class="ital-inline">to put a thing to the proof.</span> </div></div><div class="luna-Ent"><span class="dnindex">4.</span><div class="dndata">the establishment of the truth of anything; demonstration. </div></div><div class="luna-Ent"><span class="dnindex">5.</span><div class="dndata"><span class="labset"><span class="ital-inline">Law.</span> </span>(in judicial proceedings) evidence having probative <a onmousedown="return ct(this,53686)" href="/browse/weight">weight</a>. </div></div> <a class="more"></a> <div class="moredef"><div class="luna-Ent"><span class="dnindex">6.</span><div class="dndata">the effect of evidence in convincing the mind. </div></div><div class="luna-Ent"><span class="dnindex">7.</span><div class="dndata">an arithmetical operation serving to check the correctness of a calculation. </div></div><div class="luna-Ent"><span class="dnindex">8.</span><div class="dndata"><span class="labset"><span class="ital-inline">Mathematics, Logic.</span> </span>a sequence of steps, statements, or demonstrations that leads to a valid conclusion. </div></div><div class="luna-Ent"><span class="dnindex">9.</span><div class="dndata">a test to determine the quality, durability, etc., of materials used in manufacture. </div></div><div class="luna-Ent"><span class="dnindex">10.</span><div class="dndata"><span class="labset"><span class="ital-inline">Distilling.</span></span><div class="luna-Nested"><span class="dnindex">a.</span><div class="dndata">the arbitrary standard strength, as of an alcoholic liquor. </div></div><div class="luna-Nested"><span class="dnindex">b.</span><div class="dndata">strength with reference to this standard: “100 proof” signifies a <a style="font-style:normal; font-weight:normal;" href="/browse/proof spirit">proof spirit</a>, usually 50% alcohol. </div></div></div></div><div class="luna-Ent"><span class="dnindex">11.</span><div class="dndata"><span class="labset"><span class="ital-inline">Photography</span>. </span>a trial print from a negative. </div></div><div class="luna-Ent"><span class="dnindex">12.</span><div class="dndata"><span class="labset"><span class="ital-inline">Printing.</span></span><div class="luna-Nested"><span class="dnindex">a.</span><div class="dndata">a trial impression, as of composed type, taken to correct errors and make alterations. </div></div><div class="luna-Nested"><span class="dnindex">b.</span><div class="dndata">one of a number of early and superior impressions taken before the printing of the ordinary issue: <span class="ital-inline">to pull a proof.</span> </div></div></div></div><div class="luna-Ent"><span class="dnindex">13.</span><div class="dndata">(in printmaking) an impression taken from a plate or the like to show the quality or condition of work during the process of execution; a print pulled for examination while working on a plate, block, stone, etc. </div></div><div class="luna-Ent"><span class="dnindex">14.</span><div class="dndata"><span class="labset"><span class="ital-inline">Numismatics</span>. </span>one of a limited number of coins of a new issue struck from polished dies on a blank having a polished or matte surface. </div></div><div class="luna-Ent"><span class="dnindex">15.</span><div class="dndata">the state of having been tested and approved. </div></div><div class="luna-Ent"><span class="dnindex">16.</span><div class="dndata">proved strength, as of armor. </div></div><div class="luna-Ent"><span class="dnindex">17.</span><div class="dndata"><span class="labset"><span class="ital-inline">Scots Law.</span> </span>the trial of a case by a judge alone, without a jury. </div></div><a class="less"></a></div> </div>
+<div id="rltqns">
+<div id="relatedQns">Relevant Questions</div>
+<div id="threeRow">
+<div id="leftrqn" >
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,0)" href="http://ask.reference.com/web?q=What Is Proof?&o=100100" style="color: #06C;text-decoration: none;" >What Is Proof?</a></div>
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,3)" href="http://ask.reference.com/web?q=How To Rabbitproof Veggies&o=100100" style="color: #06C;text-decoration: none;" >How To Rabbitproof Veggies</a></div>
+</div>
+<div id="midqn" >
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,1)" href="http://ask.reference.com/web?q=How To Squirrel Proof Bird Feeders&o=100100" style="color: #06C;text-decoration: none;" >How To Squirrel Proof Bird Feeders</a></div>
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,4)" href="http://ask.reference.com/web?q=How To Make A Sound Proof Room&o=100100" style="color: #06C;text-decoration: none;" >How To Make A Sound Proof Room</a></div>
+</div>
+<div id="rightrqn" >
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,2)" href="http://ask.reference.com/web?q=How To Earthquake Proof Water Heaters&o=100100" style="color: #06C;text-decoration: none;">How To Earthquake Proof Water Heaters</a></div>
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,5)" href="http://ask.reference.com/web?q=How To Childproof A Computer&o=100100" style="color: #06C;text-decoration: none;">How To Childproof A Computer</a></div>
+</div>
+</div>
+<div id="twoRow">
+<div id="leftqn" >
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,0)" href="http://ask.reference.com/web?q=What Is Proof?&o=100100" style="color: #06C;text-decoration: none;" >What Is Proof?</a></div>
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,2)" href="http://ask.reference.com/web?q=How To Earthquake Proof Water Heaters&o=100100" style="color: #06C;text-decoration: none;" >How To Earthquake Proof Water Heaters</a></div>
+</div>
+<div id="rightqn" >
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,1)" href="http://ask.reference.com/web?q=How To Squirrel Proof Bird Feeders&o=100100" style="color: #06C;text-decoration: none;">How To Squirrel Proof Bird Feeders</a></div>
+<div class="relelip qn" ><a rel="nofollow" class="qna" onmousedown="return pk(this,{lk:'jhm3zj',io:'0',m:'relquest'},null,3)" href="http://ask.reference.com/web?q=How To Rabbitproof Veggies&o=100100" style="color: #06C;text-decoration: none;">How To Rabbitproof Veggies</a></div>
+</div>
+</div>
+</div>
+<div class="pbk"> <span class="pg">adjective </span> <div class="luna-Ent"><span class="dnindex">18.</span><div class="dndata">able to withstand; successful in not being overcome: <span class="ital-inline">proof against temptation.</span> </div></div><div class="luna-Ent"><span class="dnindex">19.</span><div class="dndata">impenetrable, impervious, or invulnerable: <span class="ital-inline">proof against outside temperature changes.</span> </div></div><div class="luna-Ent"><span class="dnindex">20.</span><div class="dndata">used for testing or <a style="font-style:normal; font-weight:normal;" href="/browse/prove">proving</a>; serving as proof. </div></div><div class="luna-Ent"><span class="dnindex">21.</span><div class="dndata">of standard strength, as an alcoholic liquor. </div></div><div class="luna-Ent"><span class="dnindex">22.</span><div class="dndata">of tested or <a style="font-style:normal; font-weight:normal;" href="/browse/prove">proven</a> strength or quality: <span class="ital-inline">proof armor.</span> </div></div> <a class="more"></a> <div class="moredef"><div class="luna-Ent"><span class="dnindex">23.</span><div class="dndata">noting pieces of pure gold and silver that the U.S. assay and mint offices use as standards. </div></div><a class="less"></a></div> </div>
+<div class="pbk"> <span class="pg">verb (used with object) </span> <div class="luna-Ent"><span class="dnindex">24.</span><div class="dndata">to test; examine for flaws, errors, etc.; check against a standard or standards. </div></div><div class="luna-Ent"><span class="dnindex">25.</span><div class="dndata"><span class="labset"><span class="ital-inline">Printing.</span> </span><a style="font-style:normal; font-weight:normal;" href="/browse/prove">prove</a> <span><span class="dn">(</span> def 7 <span class="dn">)</span></span>. </div></div><div class="luna-Ent"><span class="dnindex">26.</span><div class="dndata">to proofread. </div></div><div class="luna-Ent"><span class="dnindex">27.</span><div class="dndata">to treat or coat for the purpose of rendering resistant to deterioration, damage, etc. (often used in combination): <span class="ital-inline">to proof a house against termites; to shrink-proof a shirt.</span> </div></div><div class="luna-Ent"><span class="dnindex">28.</span><div class="dndata"><span class="labset"><span class="ital-inline">Cookery.</span></span><div class="luna-Nested"><span class="dnindex">a.</span><div class="dndata">to test the effectiveness of (yeast), as by combining with warm water so that a bubbling action occurs. </div></div><div class="luna-Nested"><span class="dnindex">b.</span><div class="dndata">to cause (especially bread dough) to rise due to the addition of baker's yeast or other leavening. </div></div></div></div> </div> </div> <div class="tail"> <hr class="ety"> <div class="ety"> <b><i>Origin: </i></b> <br /> <span class="rom-inline">1175–1225;</span> <span class="rom-inline">Middle English</span> <span class="ital-inline">prove, prooff, prof, proufe,</span> alteration (by association with the vowel of <a style="font-style:normal; font-weight:normal;" href="/browse/prove">prove</a>) of <span class="ital-inline">preove, proeve, prieve, pref</span> < <span class="rom-inline">Middle French</span> <span class="ital-inline">preve, proeve, prueve</span> < <span class="rom-inline">Late Latin</span> <span class="ital-inline">proba</span> a test, akin to <span class="rom-inline">Latin</span> <span class="ital-inline">probare</span> to test and find good; cf. <a style="font-style:normal; font-weight:normal;" href="/browse/pree">pree</a> </div> <br/> <span class="sectionLabel">Related forms</span> <div class="roset"> <span class="secondary-bf">re-proof, </span><span class="pg">verb (used with object) </span> </div> <div class="roset"> <span class="secondary-bf" data-syllable="un·proofed, ">unproofed, </span><span class="pg">adjective </span> </div> <br/><div><span class="sectionLabel">Synonyms</span><br/><span class="secondary-bf"><span>1. </span></span>confirmation, demonstration, corroboration, support. See <a style="font-style:normal; font-weight:normal;" href="/browse/evidence">evidence</a>. <span class="secondary-bf"><span>3. </span></span>examination, assay. <span class="secondary-bf"><span>18. </span></span>firm, steadfast. </div> </div></div><!-- google_ad_section_end -->
+</div>
+</div>
+</div>
+<div id="visual_the" style="margin-top:15px;">
+</div>
+</div>
+<script>
+_init_luna();
+show_sp();
+</script>
+<script type="text/javascript">
+if($j){
+$j('#nonfav').append('<a id="fncyb" href="" ></a>');
+$j('#fncyb').attr("href","http://app.dictionary.com/signup/core?source=favorites&fnCallback=loginuser&callbackAction=addToFav&domaindest=reference.com"+"&logindest="+ enc(window.location)) ;
+}
+</script>
+
+<div>
+<div class="sep_top shd_hdr pb2">
+<div class="shortsrcname">Dictionary.com Unabridged</div>
+<div class="KonaBody" style="">
+<div class="lunatext results_content">
+<!-- google_ad_section_start --><div class="luna-Ent"> <div class="header"> <h2 class="me" data-syllable="-proof">-proof</h2><sup></sup> </div> <div class="body"> <div class="pbk"> <div class="luna-Ent">a combining form meaning “resistant, impervious to” that specified by the initial element: <span class="ital-inline">burglarproof; childproof; waterproof.</span> </div> </div> </div></div><!-- google_ad_section_end -->
+</div>
+</div>
+</div>
+<div class="rcr">
+Dictionary.com Unabridged<br />Based on the Random House Dictionary, © Random House, Inc. 2013.
+<br/>
+<a rel="nofollow" href='/cite.html?qh=proof&ia=luna' >Cite This Source</a>
+<div id="link_to_div">|</div>
+<a id="link_to_style" onclick="return ask.dict.link_functionnewserp(this);">Link To <b>proof</b></a>
+</div>
+<div class="sep_top shd_hdr ">
+<div class="shortsrcname">Collins</div>
+<div class="KonaBody" style="">
+<div class="lunatext results_content">
+<div class="dicTl">World English Dictionary</div>
+<table border="0" width="100%" cellspacing="4" cellpadding="3">
+<tr valign="top" class="tr1"><td colspan="2" class="td1"><b>proof</b> (pru?f) <a class="questionmark" href="/help/luna/IPA_pron_key.html" target="_blank" target="_blank"></a></td></tr>
+<tr valign="top"><td colspan="2">&nbsp;</td></tr>
+<tr valign="top" class="tr2"><td colspan="2" class="td2">&mdash;<b><i>n</i></b> </td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">1.&nbsp;&nbsp;</td><td class="td3n2">any evidence that establishes or helps to establish the truth, validity, quality, etc, of something</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">2.&nbsp;&nbsp;</td><td class="td3n2"><i>law</i> the whole body of evidence upon which the verdict of a court is based</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">3.&nbsp;&nbsp;</td><td class="td3n2"><i>maths, logic</i> <a id="dic_result" href="http://dictionary.reference.com/browse/direct">direct</a> <a id="dic_result" href="http://dictionary.reference.com/browse/induction">induction</a> See also <a id="dic_result" href="http://dictionary.reference.com/browse/induction">induction</a> a sequence of steps or statements that establishes the truth of a proposition</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">4.&nbsp;&nbsp;</td><td class="td3n2">the act of testing the truth of something (esp in the phrase <b>put to the proof</b>)</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">5.&nbsp;&nbsp;</td><td class="td3n2"><i>Scots law</i> trial before a judge without a jury</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">6.&nbsp;&nbsp;</td><td class="td3n2"><i>printing</i> a trial impression made from composed type, or a print-out (from a laser printer, etc) for the correction of errors</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">7.&nbsp;&nbsp;</td><td class="td3n2">(in engraving, etc) a print made by an artist or under his supervision for his own satisfaction before he hands the plate over to a professional printer</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">8.&nbsp;&nbsp;</td><td class="td3n2"><i>photog</i> a trial print from a negative</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">9.&nbsp;&nbsp;</td><td class="td3n2">a.&nbsp;&nbsp;the alcoholic strength of proof spirit</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">&nbsp;</td><td class="td3n2">b.&nbsp;&nbsp;the strength of a beverage or other alcoholic liquor as measured on a scale in which the strength of proof spirit is 100 degrees</td></tr>
+<tr valign="top"><td colspan="2">&nbsp;</td></tr>
+<tr valign="top" class="tr2"><td colspan="2" class="td2">&mdash;<b><i>adj</i></b> (foll by <i>against</i>) </td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">10.&nbsp;&nbsp;</td><td class="td3n2">able to resist; impervious (to): <i>the roof is proof against rain</i> </td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">11.&nbsp;&nbsp;</td><td class="td3n2">having the alcoholic strength of proof spirit</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">12.&nbsp;&nbsp;</td><td class="td3n2">of proved strength or impenetrability: <i>proof armour</i> </td></tr>
+<tr valign="top"><td colspan="2">&nbsp;</td></tr>
+<tr valign="top" class="tr2"><td colspan="2" class="td2">&mdash;<b><i>vb</i></b> </td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">13.&nbsp;&nbsp;</td><td class="td3n2">(<i>tr</i>) to take a proof from (type matter, a plate, etc)</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">14.&nbsp;&nbsp;</td><td class="td3n2">to proofread (text) or inspect (a print, etc), as for approval</td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1">15.&nbsp;&nbsp;</td><td class="td3n2">to render (something) proof, esp to waterproof</td></tr>
+<tr valign="top"><td colspan="2">&nbsp;</td></tr>
+<tr valign="top" class="tr5"><td colspan="2" class="td5">[C13: from Old French <i>preuve</i> a test, from Late Latin <i>proba,</i> from Latin <i>probare</i> to test]</td></tr>
+</table>
+<br />
+</div>
+</div>
+</div>
+<div class="sep_top bottomAd" align="center">
+<div id="dcomad_mid_300x251">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('dcomad_mid_300x251'); });
+</script>
+</div>
+</div>
+<div class="citesourceseperator"></div>
+<div class="sep_top1 shd_hdr1">
+<div class="KonaBody" style="">
+<div class="lunatext results_content">
+<table border="0" width="100%" cellspacing="4" cellpadding="3">
+<tr valign="top" class="tr1"><td colspan="2" class="td1"><b>-proof</b></td></tr>
+<tr valign="top"><td colspan="2">&nbsp;</td></tr>
+<tr valign="top" class="tr2"><td colspan="2" class="td2">&mdash;<b><i>adj</i></b>, &mdash;<b><i>combining form</i></b> </td></tr>
+<tr valign="top" class="tr3"><td align="right" width="1%" class="td3n1"></td><td class="td3n2">secure against (damage by); (make) impervious to: <i>waterproof</i>; <i>mothproof</i>; <i>childproof</i> </td></tr>
+<tr valign="top"><td colspan="2">&nbsp;</td></tr>
+<tr valign="top" class="tr5"><td colspan="2" class="td5">[from <sc>proof</sc> (adj)]</td></tr>
+</table>
+<br />
+</div>
+</div>
+</div>
+<div class="rcr">
+Collins English Dictionary - Complete & Unabridged 10th Edition<br />2009 © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins<br />Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009
+<br/>
+<a rel="nofollow" href='/cite.html?qh=proof&ia=ced' >Cite This Source</a>
+</div>
+<div id="wordorgtop"></div>
+<div class="sep_top shd_hdr ">
+<div class="shortsrcname">Etymonline</div>
+<div class="KonaBody" style="">
+<div class="lunatext results_content">
+<div class="dicTl">Word Origin & History</div>
+<br/><span class="me">proof</span><br /><div class="body">early 13c., preove "evidence to establish the fact of (something)," from O.Fr. prueve (early 13c.), from L.L. proba "a proof," a back-formation from L. probare "to prove" (see <a id="dic_result" href="/browse/prove">prove</a>). Meaning "act of testing or making trial of anything" is from late 14c. Sense of "tested power" </div><a class="more"></a><span class="moreun"><div class="body">led to fireproof (early 17c.), waterproof (1736), foolproof (1902), etc. Meaning "standard of strength of distilled liquor" is from 1705. Typographical sense of "trial impression to test type" is from c.1600; proofreader first attested 1832. Numismatic sense of "coin struck to test a die" is from 1762; now mostly in ref. to coins struck from highly polished dies, mainly for collectors.</div><a class="less"></a></span>
+</div>
+</div>
+</div>
+<div class="rcr">
+Online Etymology Dictionary, © 2010 Douglas Harper
+<br/>
+<a rel="nofollow" href='/cite.html?qh=proof&ia=etymon' >Cite This Source</a>
+</div>
+<div class="sep_top shd_hdr ">
+<div class="shortsrcname">American Heritage</div>
+<div class="KonaBody" style="">
+<div class="lunatext results_content">
+<div class="dicTl">Science Dictionary</div>
+<table><tbody><tr><td><b>proof</b> <script language="javascript">AC_FL_RunContent = 0;</script><script type="text/javascript">var interfaceflash = new LEXICOFlashObject ( "http://static.sfdict.com/dictstatic/d/g/speaker.swf", "speaker", "17", "15", "<a id="dic_result" href=\"http://dictionary.reference.com/audio.html/ahsdWAV/P0065900/proof\" target=\"_blank\"><img src=\"http://static.sfdict.com/dictstatic/g/d/speaker.gif\" border=\"0\" alt=\"proof pronunciation\" /></a>", "6");interfaceflash.addParam("loop", "false");interfaceflash.addParam("quality", "high");interfaceflash.addParam("menu", "false");interfaceflash.addParam("salign", "t");interfaceflash.addParam("FlashVars", "soundUrl=http%3A%2F%2Fstatic.sfdict.com%2Fdictstatic%2Fdictionary%2Faudio%2Fahsd%2FP%2FP0065900.mp3");interfaceflash.addParam('wmode','transparent');interfaceflash.write();</script><noscript><a id="dic_result" href="http://dictionary.reference.com/audio.html/ahsdWAV/P0065900/proof" target="_blank"><img src="http://static.sfdict.com/dictstatic/g/d/speaker.gif" border="0" alt="proof pronunciation" /></a></noscript> &nbsp;&nbsp;(pr<img align="bottom" border="no" src="http://static.sfdict.com/dictstatic/dictionary/graphics/ahsd/gif/oomacr.gif">f) &nbsp;<a title="Click for guide to symbols." onclick="ahsdpop();return false;" href="http://static.sfdict.com/dictstatic/help/ahsd/pronkey.html" class="pronkey">Pronunciation Key</a>&nbsp;
+<br />
+<!--BOF_DEF-->A demonstration of the truth of a mathematical or logical statement, based on axioms and theorems derived from those axioms.
+<br />
+<!--EOF_DEF--></td></tr></tbody></table>
+</div>
+</div>
+</div>
+<div class="rcr">
+The American Heritage® Science Dictionary<br />Copyright © 2002. Published by Houghton Mifflin. All rights reserved.
+<br/>
+<a rel="nofollow" href='/cite.html?qh=proof&ia=ahsd' >Cite This Source</a>
+</div>
+<div class="sep_top shd_hdr ">
+<div class="shortsrcname">FOLDOC</div>
+<div class="KonaBody" style="">
+<div class="lunatext results_content">
+<div class="dicTl">Computing Dictionary</div>
+<p></p><h3><b>proof definition</b></h3><br>1. <logic> A <a id="dic_result" href="http://dictionary.reference.com/browse/finite">finite</a> sequence of well-formed formulas, F1, F2, ... Fn, where each Fi either is an <a id="dic_result" href="http://dictionary.reference.com/browse/axiom">axiom</a>, or follows by some rule of inference from some of the previous F's, and Fn is the statement being proved. <br>See also <a id="dic_result" href="http://dictionary.reference.com/browse/proof%20theory">proof theory</a>. <br>2. A left-associative <a id="dic_result" href="http://dictionary.reference.com/browse/natural%20language">natural language</a> <a id="dic_result" href="http://dictionary.reference.com/browse/parser">parser</a> by Craig R. Latta <latta>. Ported to Decstation 3100, Sun-4. <br>(ftp://scam.berkeley.edu/pub/src/local/proof/). <br>E-mail: <proof>. Mailing list: proof-requestf@xcf.berkeley.edu (Subject: add me). <br>(1994-11-29) <br></proof></latta></logic>
+</div>
+</div>
+</div>
+<div class="rcr">
+The Free On-line Dictionary of Computing, © Denis Howe 2010 <a href="http://foldoc.org" rel="nofollow">http://foldoc.org</a>
+<br/>
+<a rel="nofollow" href='/cite.html?qh=proof&ia=foldoc' >Cite This Source</a>
+</div>
+</div>
+<script>
+_init_luna();
+show_sp();
+</script>
+<script type="text/javascript">
+</script>
+
+<script type="text/javascript" language="JavaScript">
+_init_luna();
+show_sp();
+</script>
+<div class="sep_top bottomAd" align="center">
+<div id="dcomad_bottom_300x249">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('dcomad_bottom_300x249'); });
+</script>
+</div>
+</div>
+
+<script type="text/javascript">
+if(ask.dict.isHotWordEnabled){
+ask.dict.enableHotwordLogging = true;
+}
+</script>
+<style type="text/css">
+/*This is done for enabling favorites on page load*/
+#fav,#nonfav{
+display:inline-block;
+}
+._vtad{
+border-top:1px solid #E4E4E4;
+}
+.slL {
+cursor: pointer;
+}
+#macnt
+{
+height: 22px;
+padding-top: 2px;
+}
+#Headserp
+{
+margin-top: 8px;
+}
+.the_content #Headserp{
+margin-top:0px;
+}
+</style>
+</div>
+</div>
+
+<div id="rightRail">
+<!--
+word Dynamo Module
+-->
+<div id="exsntBlock">
+<div id="exsntHdg">Example sentences </div>
+<div class="exsentences"><span>He did not have <b>proof</b> for his views, but there did not seem to be much evidence</span><div class="sentelipsis"></div>&nbsp;<span class="sentcont"> that directly refuted it.</span></div>
+<div class="exsentences"><span>But if delivery is regarded as outstanding, it is only evidence-not <b>proof</b>-of</span><div class="sentelipsis"></div>&nbsp;<span class="sentcont"> success.</span></div>
+<div class="exsentences"><span>They work collaboratively for a certain period of time to come up with a team</span><div class="sentelipsis"></div>&nbsp;<span class="sentcont"> writeup of their <b>proof</b>.</span></div>
+<div class="exsentences"><span>Nevertheless, this tooth is the first unarguable <b>proof</b> that crocodilians did</span><div class="sentelipsis"></div>&nbsp;<span class="sentcont"> indeed snack on dinosaurs.</span></div>
+<div class="moresent" style="display:none;">
+<div class="exsentences">More <b>proof</b> that particle physicists have wandered off into pseudo-science.</div>
+</div>
+<div class="moresent" style="display:none;">
+<div class="exsentences">Floating homes and boats could quickly provide earthquake <b>proof</b> homes.</div>
+</div>
+<div class="moresent" style="display:none;">
+<div class="exsentences">There is a lot of <b>proof</b> that cuts in government support of higher education leads to tuition increases, not decreases.</div>
+</div>
+<div class="moresent" style="display:none;">
+<div class="exsentences">Ed discovers terrifying <b>proof</b> that a bear is living nearby.</div>
+</div>
+<div class="moresent" style="display:none;">
+<div class="exsentences">The <b>proof</b> is in the pudding only if you concede the fact of the pudding.</div>
+</div>
+<div class="moresent" style="display:none;">
+<div class="exsentences">There is absolutely overwhelming <b>proof</b> for evolution.</div>
+</div>
+<a class="more"></a>
+<a class="less" style="display: none;"></a>
+</div>
+<!--
+Display ads1 rightrail Module
+-->
+<div style="margin-top:15px;text-align:center;padding-bottom:0px;">
+<div id="dcomad_top_300x250_1">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('dcomad_top_300x250_1'); });
+</script>
+</div>
+</div>
+<!--
+Relatedwords Slang rightrail Module
+-->
+<div id="wrapserp" ><a id="serppremium" onmousedown="return pk(this,{io:0,m:'prem300',ec:1,lk:'ixumja'})" href="http://app.dictionary.com/signup/premium?logindest=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Fproof">Want proof ad-free? Click here!</a></div>
+<div id="relatedwords">
+<div class="rwh">Related Words</div>
+<div class="fla">
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'0',m:'rword'});" href="http://dictionary.reference.com/browse/evidence">evidence</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'1',m:'rword'});" href="http://dictionary.reference.com/browse/postulate">postulate</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'2',m:'rword'});" href="http://dictionary.reference.com/browse/disproof">disproof</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'3',m:'rword'});" href="http://dictionary.reference.com/browse/overproof">overproof</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'4',m:'rword'});" href="http://dictionary.reference.com/browse/page proof">page proof</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'5',m:'rword'});" href="http://dictionary.reference.com/browse/proof spirit">proof spirit</a>
+</div>
+<div class="flav">
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'6',m:'rword'});" href="http://dictionary.reference.com/browse/repro proof">repro proof</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'7',m:'rword'});" href="http://dictionary.reference.com/browse/trial">trial</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'8',m:'rword'});" href="http://dictionary.reference.com/browse/underproof">underproof</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'9',m:'rword'});" href="http://dictionary.reference.com/browse/axiom">axiom</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'10',m:'rword'});" href="http://dictionary.reference.com/browse/copyholder">copyholder</a>
+<a class="rey" onmousedown="return pk(this,{lk:'2ksc1p',io:'11',m:'rword'});" href="http://dictionary.reference.com/browse/demonstration">demonstration</a>
+</div>
+<div>
+<span class= "rlmr"><a class="nmore" onmousedown="return pk(this,{lk:'bwzk7c',io:'0',m:'rlwmo'})" href="http://dictionary.reference.com/reverseresults?q=proof&db=reverse">MORE</a></span>
+</div>
+</div>
+<!-- slang--->
+<div id="slang">
+<div class="rwh">Slang</div>
+<div class="fla">
+<a class="rey" onmousedown="return pk(this,{lk:'sz9zl7',io:'0',m:'slg'});" href="/browse/drool-proof">drool-proof</a>
+</div>
+<div class="flav">
+<a class="rey" onmousedown="return pk(this,{lk:'sz9zl7',io:'1',m:'slg'});" href="/browse/goof-proof">goof-proof</a>
+</div>
+</div>
+<!--
+Idioms rightrail Module
+-->
+<!--
+Images Slider Module
+-->
+<!--
+Quotes Module
+-->
+<div id="quotesbox">
+<div class="qbox">
+<div class="qhdr">Matching Quote</div>
+<div class="qquote">
+<a href="http://quotes.dictionary.com/Not_that_I_think_you_did_not_love" onmousedown="return pk(this,{lk:'k3p087',io:'0',m:'rquot'})">"Not that I think you did not love your father,<br />But that I know love is begun by time,<br />And that I see, in passages of <b>proof</b>,<br />Time qualifies the spark and fire of it."</a>
+</div>
+<div class="qblw">
+<div>
+<span><a class="qtn" href="http://quotes.dictionary.com/author/Shakespeare" onmousedown="return pk(this,{lk:'rc2wb4',io:'0',m:'auth'})">-Shakespeare</a></span>
+<span><img class="qauti" height="50" width="50"/></span>
+<div class= "qsnmr"><a class="nmore" href="http://quotes.dictionary.com/search/proof" onmousedown="return pk(this,{lk:'j2hdmf',io:'0',m:'more'})">MORE</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><!--reults LD2-->
+</div> <!--results for new serp -->
+<style type="text/css">
+.nmorescr,.nmorescr:visited,.nmore, .nmore:visited,a.more, a.more:hover, a.less, a.less:hover{
+font-weight:normal;
+}
+</style>
+
+<div id="lr">
+
+<div class="rbox">
+<div class="rboxborder">
+<div class="hd">Related Searches</div>
+<div id="narrow">
+<div id="sM">
+<div id="s0" class="elip eD dC"><a rel="nofollow" class="ey dC" href="http://ask.reference.com/related/Sample+Letter+for+Proof+of+Residency?qsrc=2892&l=dir&o=100101" >Sample letter for proof of residency</a></div>
+<div id="s1" class="elip eD dC"><a rel="nofollow" class="ey dC" href="http://ask.reference.com/related/Proof+of+Residency+Template?qsrc=2892&l=dir&o=100101" >Proof of residency template</a></div>
+<div id="s2" class="elip eD dC"><a rel="nofollow" class="ey dC" href="http://ask.reference.com/related/Proof+of+Residency+Form?qsrc=2892&l=dir&o=100101" >Proof of residency form</a></div>
+<div id="s3" class="elip eD dC"><a rel="nofollow" class="ey dC" href="http://ask.reference.com/related/Proof+of+Residency+Document?qsrc=2892&l=dir&o=100101" >Proof of residency document</a></div>
+<div id="s4" class="elip eD dC"><a rel="nofollow" class="ey dC" href="http://ask.reference.com/related/Format+of+Proof+Residency?qsrc=2892&l=dir&o=100101" >Format of proof residency</a></div>
+<div id="s5" class="elip eD dC"><a rel="nofollow" class="ey dC" href="http://ask.reference.com/related/Proof+Residency+for+School?qsrc=2892&l=dir&o=100101" >Proof residency for school</a></div>
+<div id="s6" class="elip eD dC"><a rel="nofollow" class="ey dC" href="http://ask.reference.com/related/Proof+of+Income+Template?qsrc=2892&l=dir&o=100101" >Proof of income template</a></div>
+<div id="s7" class="elip eD dC"><a rel="nofollow" class="ey dC" href="http://ask.reference.com/related/Notarized+Letter+for+Proof+of+Residence?qsrc=2892&l=dir&o=100101" >Notarized letter for proof of residence</a></div>
+</div>
+</div>
+</div>
+</div>
+<script >
+pklogRelated("sM",{lk:'5k1a4a',io:'7',m:'drs'},"s");
+</script>
+
+<div class="nbox ">
+<div class="hd"><span >Nearby Words</span></div>
+<div class="pt10" onclick="ask.dict.nearby.scrollUp()">
+</div>
+<div id="nBL">
+<div id="nB0" class="elip eD"><a href="/browse/pronuclearist?qsrc=2446" >pronuclearist</a></div>
+<div id="nB1" class="elip eD"><a href="/browse/pronuclei?qsrc=2446" >pronuclei</a></div>
+<div id="nB2" class="elip eD"><a href="/browse/pronucleus?qsrc=2446" >pronucleus</a></div>
+<div id="nB3" class="elip eD"><a href="/browse/pronuke?qsrc=2446" >pronuke</a></div>
+<div id="nB4" class="elip eD"><a href="/browse/pronunc.?qsrc=2446" >pronunc.</a></div>
+<div id="nB5" class="elip eD"><a href="/browse/pronuncial?qsrc=2446" >pronuncial</a></div>
+<div id="nB6" class="elip eD"><a href="/browse/pronunciamento?qsrc=2446" >pronunciamento</a></div>
+<div id="nB7" class="elip eD"><a href="/browse/pronunciamiento?qsrc=2446" >pronunciamiento</a></div>
+<div id="nB8" class="elip eD"><a href="/browse/pronunciate?qsrc=2446" >pronunciate</a></div>
+<div id="nB9" class="elip eD"><a href="/browse/pronunciation?qsrc=2446" >pronunciation</a></div>
+<div id="nB10" class="elip eD"><a href="/browse/pronunciation+spelling?qsrc=2446" >pronunciation spelling</a></div>
+<div id="nB11" class="elip eD"><a href="/browse/pronunciation-spelling?qsrc=2446" >pronunciation-spelling</a></div>
+<div id="nB12" class="elip eD"><a href="/browse/pronunciational?qsrc=2446" >pronunciational</a></div>
+<div id="nB13" class="elip eD"><a href="/browse/pronunciative?qsrc=2446" >pronunciative</a></div>
+<div id="nB14" class="elip eD"><a href="/browse/pronunciator?qsrc=2446" >pronunciator</a></div>
+<div id="nB15" class="elip eD"><a href="/browse/pronunciatory?qsrc=2446" >pronunciatory</a></div>
+<div id="nB16" class="elip eD"><a href="/browse/prony+brake?qsrc=2446" >prony brake</a></div>
+<div id="nB17" class="elip eD"><a href="/browse/prony-brake?qsrc=2446" >prony-brake</a></div>
+<div id="nB18" class="elip eD"><a href="/browse/proocutorship?qsrc=2446" >proocutorship</a></div>
+<div id="nB19" class="elip eD"><a href="/browse/prooestrus?qsrc=2446" >prooestrus</a></div>
+<div id="nB20" class="elip eD "><a href="/browse/proof?qsrc=2446" class="nearByCurr dicColor" >proof</a></div>
+<div id="nB21" class="elip eD"><a href="/browse/proof+of+concept?qsrc=2446" >proof of concept</a></div>
+<div id="nB22" class="elip eD"><a href="/browse/proof+of+pudding?qsrc=2446" >proof of pudding</a></div>
+<div id="nB23" class="elip eD"><a href="/browse/proof+of+purchase?qsrc=2446" >proof of purchase</a></div>
+<div id="nB24" class="elip eD"><a href="/browse/proof+of+the+pudding?qsrc=2446" >proof of the pudding</a></div>
+<div id="nB25" class="elip eD"><a href="/browse/proof+of+the+pudding%2C+the?qsrc=2446" >proof of the pudding, the</a></div>
+<div id="nB26" class="elip eD"><a href="/browse/proof+positive?qsrc=2446" >proof positive</a></div>
+<div id="nB27" class="elip eD"><a href="/browse/proof+pudding?qsrc=2446" >proof pudding</a></div>
+<div id="nB28" class="elip eD"><a href="/browse/proof+read?qsrc=2446" >proof read</a></div>
+<div id="nB29" class="elip eD"><a href="/browse/proof+sheet?qsrc=2446" >proof sheet</a></div>
+<div id="nB30" class="elip eD"><a href="/browse/proof+spirit?qsrc=2446" >proof spirit</a></div>
+<div id="nB31" class="elip eD"><a href="/browse/proof+stress?qsrc=2446" >proof stress</a></div>
+<div id="nB32" class="elip eD"><a href="/browse/proof+the+pudding?qsrc=2446" >proof the pudding</a></div>
+<div id="nB33" class="elip eD"><a href="/browse/proof+theory?qsrc=2446" >proof theory</a></div>
+<div id="nB34" class="elip eD"><a href="/browse/proof-arm?qsrc=2446" >proof-arm</a></div>
+<div id="nB35" class="elip eD"><a href="/browse/proof-of-purchase?qsrc=2446" >proof-of-purchase</a></div>
+<div id="nB36" class="elip eD"><a href="/browse/proof-proof?qsrc=2446" >proof-proof</a></div>
+<div id="nB37" class="elip eD"><a href="/browse/proof-pudding?qsrc=2446" >proof-pudding</a></div>
+<div id="nB38" class="elip eD"><a href="/browse/proof-read?qsrc=2446" >proof-read</a></div>
+<div id="nB39" class="elip eD"><a href="/browse/proof-sheet?qsrc=2446" >proof-sheet</a></div>
+<div id="nB40" class="elip eD"><a href="/browse/proof-spirit?qsrc=2446" >proof-spirit</a></div>
+<script >
+ask.dict.nearby.totalItems=41;
+ask.dict.nearby.centerCurrent('20');
+pklog("nBL",{lk:'1zv0ht',io:'0',m:'nrb'},"nB")
+</script>
+</div>
+<div class="pt12" onclick="ask.dict.nearby.scrollDown()">
+</div>
+</div>
+
+
+<div class="box sbox">
+<div class="hd">Synonyms</div>
+<div id="synonym">
+<div id="sY0" class="sE"><a class="ey dC" href="/browse/demonstration">demonstration</a></div>
+<div id="sY1" class="sE"><a class="ey dC" href="/browse/establishment">establishment</a></div>
+<div id="sY2" class="sE"><a class="ey dC" href="/browse/confirmation">confirmation</a></div>
+<div id="sY3" class="sE"><a class="ey dC" href="/browse/information">information</a></div>
+<div id="sY4" class="sE"><a class="ey dC" href="/browse/credentials">credentials</a></div>
+<div id="sY5" class="sE"><a class="ey dC" href="/browse/impression">impression</a></div>
+<div id="sY6" class="sE"><a class="ey dC" href="/browse/testament">testament</a></div>
+</div>
+<div>
+<span class= "synmr"><a class="nmore" href="http://thesaurus.com/browse/proof" onmousedown="return pk(this,{lk:'9pr7mv',io:'0',m:'synmo'})">MORE</a></span>
+<a href="http://thesaurus.com/browse/proof" onmousedown="return pk(this,{lk:'hsxjhw',io:'0',m:'synth'})"><span class="slogo"></span></a>
+</div>
+</div>
+<script >
+pklog("synonym",{lk:'yikftd',io:'6',m:'sy'},"sY");
+</script>
+<!--
+In-house ads Module
+-->
+<!--
+Sky ad Module
+-->
+<div class="lr_skyad">
+<div id="dcomad_mid_160x600">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('dcomad_mid_160x600'); });
+</script>
+</div>
+</div>
+
+<div class="rqbox">
+<div class="hd" style="padding-bottom:5px;">Related Questions</div>
+<div class="sE"><a class="ey" href="http://answers.reference.com/Wellness/Misc/what_is_alcohol_proof" onmousedown="return pk(this,{lk:'jl79qz',io:'0',m:'rq'});">What is alcohol proof?</a></div>
+</div>
+<div id="ltm"></div>
+</div>
+<script type="text/javascript">
+var logStickyFooter = false;
+$j = jQuery;
+var eventType = "mousedown";
+var popup = $j("#popup");
+$j('body').delegate('#favLink1','mousedown',function(){
+location.href = "http://app.dictionary.com/favorites";
+}
+);
+$j(document).bind(
+eventType,
+function(){
+popup.hide();
+}
+);
+_favoriteQuery="proof";
+$j('body').delegate('#nonfav','mousedown',function(){
+deleteFavoriteCount();
+});
+function redirectToAppcoreForSuperSession(){
+locationString = window.location.toString();
+if(Cookie.isEnabled()){
+Cookie.setCookie("fQ", "proof", "", "/", "reference.com");
+setDictionaryConsolidatedCookie('fC','*');
+}
+window.location = "http://app.dictionary.com/login/core/?logindest="+enc(locationString);
+}
+function headerChange(){
+var name = appCoreUsername;
+var clklogg = "{lk:'1fk8td',io:'0',m:'hrdupgrd'}";
+if(validDictionaryPremiumUser == "false"){
+$j('#tpnv').html('<a href="http://app.dictionary.com/users/settings">'+'\n'+name+'\n'+'</a><a id="fvlp" style="padding-left:1px;" href="http://app.dictionary.com/favorites"><span class="favL"></span><span id="favLink"></span></a>'+'\n'+'<a href="http://app.dictionary.com/logout?logindest="'+enc(window.location.toString())+' "class="hdrlink" id="favLogout">Log Out </a><a id="upgd" class="hdrlink" href="http://app.dictionary.com/premium?logindest=" onmousedown=\"return pk(this,'+clklogg+')\">Upgrade</a>');
+}
+else if(fbUser=='y'){
+$j('#tpnv').html('<span class="fbuser"></span><span>Hi,</span><a href="http://app.dictionary.com/users/settings">'+'\n'+name+'\n'+'</a><a href="http://app.dictionary.com/favorites"><span class="favL"></span><span id="favLink"></span></a>'+'\n'+'<a href="http://app.dictionary.com/logout?logindest="'+enc(window.location.toString())+' "class="hdrlink" id="favLogout">Log Out</a>');
+}else {
+$j('#tpnv').html('<span>Hi,</span><a href="http://app.dictionary.com/users/settings">'+'\n'+name+'\n'+'</a><a href="http://app.dictionary.com/favorites"><span class="favL"></span><span id="favLink"></span></a>'+'\n'+'<a href="http://app.dictionary.com/logout?logindest="'+enc(window.location.toString())+' "class="hdrlink" id="favLogout">Log Out</a>');
+}
+}
+function makeFooterVisible(){
+var scrollTop = $j(window).scrollTop();
+var bodyHeight = $j('body').height();
+if(scrollTop >= 300 || bodyHeight < 930){
+$j("#sftr").css('visibility','visible');
+if(!logStickyFooter){
+logStickyFooter = true;
+(new Image()).src = 'http://click.reference.com/track/stickyFooter?site=dict&ldid=0&pageName=dic';
+}
+}
+}
+$j('body').delegate('#arcnt','mousedown',function(){
+pk(this,{lk:'f1h0vi',io:'0',m:'forec'});
+});
+$j('body').delegate('#afav','mousedown',function(){
+pk(this,{lk:'lwjk79',io:'0',m:'fofav'});
+});
+$j('body').delegate('.ftr_logo','mousedown',function(){
+spk(this,{lk:'28rdro',io:'0',m:'fologo'});
+});
+//variables for fcol
+isspellingProductEmpty = true;
+categoryFordictionaryAd = false
+supressStickyFooterForMobile = false
+$j(window).scroll(function(){
+makeFooterVisible();
+});
+$j(document).ready(function() {
+makeFooterVisible();
+$j("#bfpu>ul>li>.flog").attr("href","http://app.dictionary.com/login/core?source=footer&fnCallback=loginuser&callbackAction=showFavWords&domaindest=reference.com"+"&logindest="+ enc(window.location));
+$j("#brpu>ul>li>.flog").attr("href","http://app.dictionary.com/login/core?source=footer&fnCallback=loginuser&callbackAction=showRecent&domaindest=reference.com"+"&logindest="+ enc(window.location));
+$j("#bfpu>ul>li>.freg").attr("href","http://app.dictionary.com/signup/core?source=footer&fnCallback=loginuser&callbackAction=showFavWords&domaindest=reference.com"+"&logindest="+ enc(window.location));
+$j("#brpu>ul>li>.freg").attr("href","http://app.dictionary.com/signup/core?source=footer&fnCallback=loginuser&callbackAction=showRecent&domaindest=reference.com"+"&logindest="+ enc(window.location));
+registerBottomFavAction();
+});
+</script>
+
+<script type="text/javascript">
+visualThesaurusOnclick();
+if($('macnt') && $('htwt')){
+position = a10.util.findPos($('htwt'));
+y = position[1] + 36;
+$('htwt').style.top = y + 'px';
+}
+</script>
+
+</div> <!--dmain-->
+</center> <!--center that encloses dmain-->
+</div> <!--de-->
+</div> <!--cwrp-->
+<div id="nfotr">
+<div class="brftr" style="padding-bottom:12px;">
+<div class="er">
+<a class="fdic" href="http://content.dictionary.com" onmousedown="pk(this,{lk:'20fqrf',io:'0',m:'fdic',pt:'Footer+Dictionary+Logo'});"></a>
+</div>
+</div>
+<div id="nfr">
+<div id="suggestWord"></div>
+<div class="bllt">Copyright &copy;&nbsp;<span title="Copyright Ã?Â©&nbsp;2014 Dictionary.com, LLC. All rights reserved.">2014 Dictionary.com, LLC</span>. All rights reserved.</div>
+<div class="blf">
+<a target="_top" rel="nofollow" href="http://dictionary.com/about" onmousedown="pk(this,{lk:'y0qla1',io:'0',m:'abt'});">About</a>
+<a target="_top" rel="nofollow" href="http://dictionary.com/privacy" onmousedown="pk(this,{lk:'u2afv2',io:'0',m:'prvplcy'});">PRIVACY POLICY</a>
+<a target="_top" rel="nofollow" href="http://dictionary.com/terms" onmousedown="pk(this,{lk:'cuhe6x',io:'0',m:'trmofuse'});">Terms</a>
+<a target="_top" rel="nofollow" href="http://dictionary.com/careers" rel="nofollow" onmousedown="pk(this,{lk:'pm7vfr',io:'0',m:'careers'});">Careers</a>
+<a target="_top" rel="nofollow" href="http://dictionary.com/mediakit" onmousedown="pk(this,{lk:'bga8c7',io:'0',m:'advtus'});">Advertise with Us</a>
+<a rel="nofollow" onmousedown="pk(this,{lk:'lnnyvs',io:'0',m:'cnt'});" target="_top" href="http://dictionary.com/contact">Contact Us</a>
+<a rel="nofollow" onmousedown="pk(this,{lk:'vaee9s',io:'0',m:'fblg'});" target="_top" href="http://blog.dictionary.com">Our Blog</a>
+<a target="_top" style="cursor:pointer;" onmousedown="suggestWordAction('content.dictionary.com',false)">Suggest a Word</a>
+<a class="npr" target="_top" onmousedown="pk(this,{lk:'ehy6lf',io:'0',m:'help'});" rel="nofollow" href="http://dictionary.com/help">Help</a>
+</div>
+</div>
+</div>
+</div> <!--contouter-->
+<div id="sftr" >
+<div class="ftwr">
+<div class="bfp" id="bfpu">
+<ul>
+<li class="bpt"></li>
+<li style="line-height:14px;">Please <a class='flog'>Login</a> or <a class='freg'>Sign Up</a> to use the Favorites feature</li>
+<li class="bpb"></li>
+</ul>
+</div>
+<div class="bfp" id="brpu">
+<ul>
+<li class="bpt"></li>
+<li style="line-height:14px;">Please <a class='flog'>Login</a> or <a class='freg'>Sign Up</a> to use the Recent Searches feature</li>
+<li class="bpb"></li>
+</ul>
+</div>
+<div class="sftc">
+<a class="ftr_logo" href="#de" ></a>
+<a class="sfav"><div ></div><span>FAVORITES</span></a>
+<a class="srec" onmousedown="showRecentPopUp();"><div ></div><span>RECENT</span></a>
+<form action="/dic" onsubmit="return botformcheck()" class="mnfrm">
+<input size="20" value="search dictionary" id="bq" autoComplete="off" type="text" name="q" onclick="make_blank();"/>
+<button type="submit" value="" ></button>
+</form>
+<div class="ftsp">
+<script type="text/javascript">
+var showstickypromo = Cookie.getCookie("stad");
+if(showstickypromo == null){
+var showClose=true;
+stickyFooterAd('http://ad.doubleclick.net/adj/5480.iac.dictionary/stickyfooter;kw=;tile=6;pos=bottom;sz=300x250;ord=@@cachebuster@@;?');
+}
+</script>
+</div>
+<a class="fCol" onclick="expandorCollpase();""></a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$j("body").delegate(".srec","mouseenter",function(){showRecentPopUp();
+});
+$j('body').delegate('#sftr','mouseleave',function(){
+$j('#brpu').hide();
+$j('#bfpu').hide();
+});
+</script>
+</div>
+<style type="text/css">
+#tpnv{
+line-height:22px;
+}
+</style>
+<script>
+var didyouknow = '<div id="macnt" ><span class="wia">Did you know:</span><span class="wiac">The tip of a dentist\'s drill has a name that sounds like the <a class="lnktxt" href="http:\/\/dictionary.reference.com\/browse\/burr?qsrc=3086" onmousedown="daisyCT(this,53814,{io:0,m:\'alrtM\',ec:1,lk:\'jwc8dj\'})" onclick="closeThis(2,\'amm\')"> buzz of the drill.<\/a></span></div>' ;
+if(false){if($j('#diduno')){$j('#diduno').html(didyouknow);}}
+var linkrefer = '<div id="link_to_module" style="top:1558px;"><span class="link_text">Copy & paste this link to your blog or website to reference this page</span><input class="linkbox" onclick="this.select()" value="<a href=http://dictionary.reference.com/browse/proof />"></div>';
+if($j('#ltm')){$j('#ltm').html(linkrefer);}
+$j(document).ready(function(){
+playaudio();
+$j(".speaker").mouseenter();
+});
+function suggestWordAction(actionURL,isNoResults){
+if(isNoResults){
+spk(this,{"m":"suggest1","lk":"om4es7",pt:"Suggest a word Noresults"});
+}
+else{
+spk(this,{"m":"suggest2","lk":"e2r2wp",pt:"Suggest a word"});
+}
+document.getElementById("suggestWord").innerHTML = '<form id=\"gen_web\" action=\"http://'+actionURL+'/contact?Suggestion&z=1\" method=\"post\"><input type=\"hidden\" value=\"General Website\" name=\"category\"><input type=\"hidden\" value=\"1\" name=\"z\"><input type=\"hidden\" value=\"1\" name=\"c\"></form>';
+document.getElementById("gen_web").submit();
+}
+</script>
+<script type="text/javascript">
+if(rsSpellSuggest=="false"){
+visualThesauruslazyOnclick();
+}
+else{
+visualThesaurusOnclick();
+}
+</script>
+<script type="text/javascript">
+$j(document).ready(function(){
+if($j('.mdbt')){
+$j(".mdbt").css("display","block");
+}
+});
+function enablemediabuttons(){
+if(typeof (jQuery)!="undefined"){
+$j(".mdbt").hover(function() {
+$j(".mdbt").css("display","none");
+$j(".hdmd").css("display","block");
+});
+$j.getScript("https://apis.google.com/js/plusone.js", function() {
+});
+$j(".hdfb").append('<iframe src="//www.facebook.com/plugins/like.php?href=http://dictionary.reference.com/browse/proof&amp;send=false&amp;ref=dic&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:86px; height:21px;" allowTransparency="true"></iframe>', function() {
+});
+$j(".hpt").append('<a href="http://pinterest.com/pin/create/button/?url=http://dictionary.reference.com/browse/proof%3Fs%3Dt&media=http://userlogos.org/files/logos/Daggles/dictionarycom.png&description=Dictionary_logo&ver=" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"/></a>',function(){
+});
+}
+}
+</script>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://rt.legolas-media.com/lgrt?ci=2&ti=1222&pbi=10791';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<span style="display:none">
+<script type="text/javascript">
+_qoptions = {
+qacct:"p-51zXP5Cc9sxvQ"
+};
+</script>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://pixel.quantserve.com/seg/p-51zXP5Cc9sxvQ.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<script type="text/javascript">
+// DO NOT REMOVE _quantgc function
+function _quantgc(n) {
+var c=document.cookie;if(!c)return '';
+var i=c.indexOf(n+"=");if(-1==i)return '';
+var len=i+n.length+1;
+var end=c.indexOf(";", len);
+return c.substring(len,end<0?c.length:end);
+}
+// Code below is customizable per publisher
+quantSegs = "";
+var _qsegs = _quantgc('__qseg').split('|');
+for (var i=0;i < _qsegs.length;i++) {
+var qArr=_qsegs[i].split("_")
+if (qArr.length>1) { quantSegs += ( qArr[1] + ","); }
+}
+</script>
+</span>
+<span style="display:none">
+<script type="text/javascript">
+_qevents.push( { qacct:"p-51zXP5Cc9sxvQ"} );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-51zXP5Cc9sxvQ.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+</span>
+<div id="spanids" style="height:1px;width:1px"></div>
+<script type="text/javascript">
+(function($){
+$.fn.renderspanids = function(){
+ghostwriter(
+"spanids",
+{
+insertType: "append",
+script: { text: "document.write('<img src=\"http://spanids.dictionary.com?bid=UralMETFsLwVn6wz&asid=Uv_evUTFsLxf9bru&bidnew=0&asidnew=1&source=r\" height=\"1px\" width=\"1px\" />');" }
+}
+);
+}
+})(jQuery);
+var spanidsLoaded = false;
+jQuery(document).ready(function(){
+if(!spanidsLoaded){
+spanidsLoaded = true;
+jQuery("div[id=spanids]").renderspanids();
+}
+});
+</script>
+<div id="bkpix" style="display:none"></div>
+<script type="text/javascript">
+(function($){
+$.fn.renderbkpixel = function(){
+ghostwriter(
+"bkpix",
+{
+insertType: "append",
+script: { text: "document.write('<img src=\"http://tags.bluekai.com/site/5397\" width=\"1\" height=\"1\" />');" }
+}
+);
+}
+})(jQuery);
+var bkPixLoaded = false;
+$j(document).ready(function(){
+if(!bkPixLoaded){
+bkPixLoaded = true;
+$j("#bkpix").renderbkpixel();
+}
+});
+</script>
+<div id="quantserve" style="height:0px;width:0px"></div>
+<script type="text/javascript">
+(function($){
+$.fn.quantserve = function(){
+ghostwriter(
+"quantserve",
+{
+insertType: "append",
+script: {src: (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"}
+}
+);
+}
+})(jQuery);
+jQuery(document).ready(function(){
+jQuery("div[id=quantserve]").quantserve();
+});
+</script>
+<script>
+$j("a").filter(function(index){
+var tmp = this.onmousedown;
+this.onmousedown ='';
+$j(this).mousedown(function(e){
+if(this.href!=='' && (this.href.indexOf("reference.com")== -1)){
+var crossDomain = "thesaurus.com|dictionary.com";
+crossDomain = crossDomain.split('|');
+for(var x in crossDomain){
+if((this.href.indexOf(crossDomain[x]) != -1)){
+var src = readCookie("rh");
+var mobc = readCookie("mw");
+if(mobc!=null){
+src=src + "&m=www";
+}
+this.href = appendReferrerHost(this.href,src);
+var pageTracker = _gat._getTrackerByName(); // Gets the default tracker.
+this.href = pageTracker._getLinkerUrl(this.href);
+}
+}
+}
+if("undefined" != typeof(tmp) && null != tmp && "" != tmp)
+{
+tmp.call(this);
+}
+});
+});
+</script>
+<div id="csPixel" style="display:none">
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6034776&cv=2.0&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<script type="text/javascript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6034776",c3:"",c4:(new String(window.location)).replace(/\?.*$/, "") });
+(function($){
+$.fn.renderscsPixel = function(){
+ghostwriter(
+"csPixel",
+{
+insertType: "append",
+script: { text: "document.write('<script src=\"" + (document.location.protocol == "https:" ? "https://sb" : "http://b")+ ".scorecardresearch.com/beacon.js"+"\"><\/script>');" }
+}
+);
+}
+})(jQuery);
+var csPixelLoaded = false;
+$j(document).ready(function(){
+if(!csPixelLoaded){
+csPixelLoaded = true;
+$j("#csPixel").renderscsPixel();
+}
+});
+</script>
+</div>
+<script type="text/javascript">
+(function($){
+$.fn.rendervisualthesaurus = function(){
+ghostwriter(
+"visual_the",
+{
+insertType: "append",
+script: { text: "document.write('<scr"+"ipt src=\"http://syndication.visualthesaurus.com/ddc/related.js?lang=en&word=proof\"><\/scr"+"ipt>');" },
+done:function(){
+$j('#fancybox-left, #fancybox-right').css({'background-image':'url("http://static.sfdict.com/en/i/dictionary/newserp/fancybox_blank.gif")','background-color':'transparent'});
+var images = '';
+var imagesArray = images.split(',');
+$j('.smg').attr('src',imagesArray[0]);
+$j('#imr').css('display','block');
+$j('.qauti').attr('src','http://static.sfdict.com/quotes/images/author_small/Shakespeare.png');
+if(!$j("div").hasClass("_vtad") && daisyPageName == "specialitydictionaries"){
+$j('#visual_the').css('display','none');
+$j(".sep_top").css("border-top","0px");
+}
+}
+}
+);
+}
+})(jQuery);
+jQuery(document).ready(function(){
+if($j("#visual_the").length > 0){
+jQuery("div[id=visual_the]").rendervisualthesaurus();
+}
+});
+</script>
+<script type="text/javascript">
+if(getRadiumCookie()){
+if(rsResultDomain == 'dictionary.reference.com'){
+document.write('<img src="http://rs.gwallet.com/r1/pixel/x4472" width="1" height="1" border="0" alt=""/>');
+}else if(rsResultDomain == 'thesaurus.com'){
+document.write('<img src="http://rs.gwallet.com/r1/pixel/x4473" width="1" height="1" border="0" alt=""/>');
+}else if(rsResultDomain == 'www.reference.com'){
+document.write('<img src="http://rs.gwallet.com/r1/pixel/x4472" width="1" height="1" border="0" alt=""/>');
+}
+}
+</script>
+<script type="text/javascript" lang="javascript">
+function slideshowevent(){
+var img = new Image();
+var url = "http://click.reference.com/track/close?pageName=dic&site=dict";
+img.src = url;
+}
+var modalWindow = {
+parent:"body",
+windowId:null,
+content:null,
+width:null,
+height:null,
+close:function()
+{
+$j(".modal-window").remove();
+$j(".modal-overlay").remove();
+$j('#aud').css("display","inline");
+},
+open:function()
+{
+var modal = "";
+modal += "<div class=\"modal-overlay\"></div>";
+modal += "<div id=\"" + this.windowId + "\" class=\"modal-window\" style=\"width:" + this.width + "px; height:" + this.height + "px; margin-top:-" + (this.height / 2) + "px; margin-left:-" + (this.width / 2) + "px;\">";
+modal += this.content;
+modal += "</div>";
+$j(this.parent).append(modal);
+$j('embed#speaker').attr("wmode","transparent");
+$j('#aud').css("display","none");
+$j(".modal-window").focus();
+$j(".modal-window").append("<a class=\"close-window\"></a>");
+$j(".close-window").click(function(){slideshowevent();modalWindow.close();});
+$j(".modal-overlay").click(function(){slideshowevent();modalWindow.close();});
+}
+};
+var openMyModal = function(source)
+{
+modalWindow.windowId = "myModal";
+modalWindow.width = 975;
+modalWindow.height = 545;
+modalWindow.content = "<iframe id='slidifr' width='975' height='545' frameborder='0' scrolling='no' allowtransparency='true' src='" + source + "'>&lt/iframe>";
+modalWindow.open();
+};
+function slideshowOpen(){
+$j(".icoMr").trigger('click');
+}
+</script>
+<style type="text/css">
+.modal-overlay
+{
+position:fixed;
+top:0;
+right:0;
+bottom:0;
+left:0;
+height:100%;
+width:100%;
+margin:0;
+padding:0;
+background:#000;
+opacity:.85;
+filter: alpha(opacity=85);
+-moz-opacity: 0.85;
+z-index:10001;
+}
+* html .modal-overlay
+{
+position: absolute;
+height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');
+}
+.modal-window
+{
+position:fixed;
+top:50%;
+left:50%;
+margin:0;
+padding:0;
+z-index:10002;
+}
+* html .modal-window
+{
+position:absolute;
+}
+.close-window {
+position: absolute;
+top: -15px;
+right: -13px;
+width: 30px;
+height: 30px;
+background:transparent url('http://static.sfdict.com/en/i/dictionary/newserp/Sprite_Serp.png') -62px -109px;
+cursor: pointer;
+z-index: 1103;
+}
+</style>
+<div style="margin-left:200px; top:40px;">
+<p>
+<a href="#" onclick="openMyModal('http://dict.reference.com/'); return false;" class="icoMr"></a>
+</p>
+</div>
+<script type="text/javascript">
+$j(document).ready(function(){
+if ($j("#scpromo").length > 0){
+ghostwriter(
+"scpromo",
+{
+insertType: "append",
+script: { text: "document.write('<img src=\"\"/>');" }
+}
+);
+}
+});
+</script>
+<div id="neilsen" style="display:none"> </div>
+<script>
+$j(document).ready(function(){
+var url ="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-805928h&cg=0&cc=1&si="+escape(window.location.href)+"&rp="+escape(document.referrer)+"&ts=compact&rnd="+(new Date()).getTime();
+ghostwriter(
+"neilsen",
+{
+insertType: "append",
+script: { text:"document.write('<img src="+url+"/>')"}
+}
+);
+});
+</script>
+<script>
+$j(".pronset span").first().mousedown(function(){
+if(refreshAdsOnlyonce){
+setTimeout('clicksWithAdRefresh("audio")',20);
+}else{
+setTimeout('clicksWithoutAdRefresh("audio")',20);
+}
+});
+$j(".aud").mousedown(function(){
+if(refreshAdsOnlyonce){
+setTimeout('clicksWithAdRefresh("audio")',20);
+}else{
+setTimeout('clicksWithoutAdRefresh("audio")',20);
+}
+if(false){
+var audprompt = Cookie.getCookie("aud");
+if(audprompt == null){
+$j("#audprompt").css("display","inline-block");
+}
+}
+});
+function clicksWithAdRefresh(target){
+refreshDisplayAds();
+var url = '';
+if(refreshAdsOnlyonce){
+url = 'http://click.reference.com/track/clickInner?pageName=dic&target='+target+'&adRefresh=n&pageviewCount=1&site=dict&rnd='+(new Date()).getTime();
+}else{
+url = 'http://click.reference.com/track/clickInner?pageName=dic&target='+target+'&adRefresh=y&pageviewCount=1&site=dict&rnd='+(new Date()).getTime();
+}
+var img = new Image();
+img.src = url;
+}
+function clicksWithoutAdRefresh(target){
+var url = 'http://click.reference.com/track/clickInner?pageName=dic&target='+target+'&adRefresh=n&pageviewCount=1&site=dict&rnd='+(new Date()).getTime();
+var img = new Image();
+img.src = url;
+}
+$j(".more").click(function(){
+if(refreshAdsOnlyonce){
+clicksWithAdRefresh('expand');
+}else{
+clicksWithoutAdRefresh('expand');
+}
+});
+$j(".less").click(function(){
+if(refreshAdsOnlyonce){
+clicksWithAdRefresh('collapse');
+}else{
+clicksWithoutAdRefresh('collapse');
+}
+});
+$j(".sfav").click(function(){
+if(refreshAdsOnlyonce){
+clicksWithAdRefresh('favorite');
+}else{
+clicksWithoutAdRefresh('favorite');
+}
+});
+$j(".srec").click(function(){
+if(refreshAdsOnlyonce){
+clicksWithAdRefresh('recent');
+}else{
+clicksWithoutAdRefresh('recent');
+}
+});
+if($j(".prmore").length > 0){
+$j(".prmore").click(function(){
+if(refreshAdsOnlyonce){
+clicksWithAdRefresh('expand');
+}else{
+clicksWithoutAdRefresh('expand');
+}
+});
+}
+</script>
+<script type="text/javascript">
+window.onload = function() {
+setTimeout(function() {
+if (window.performance && window.performance.timing) {
+var ntStats = window.performance.timing;
+_adLoadStart='';
+_adLoadEnd='';
+if(typeof sratest !='undefined' && sratest){
+if(typeof _sraAdStart!='undefined'){
+for (var i in _sraAdStart) {
+adlog=_sraAdStart[i].split("#");
+_adLoadStart+=adlog[0]+"="+(adlog[1]-ntStats.navigationStart)+"&";
+}
+}
+if(typeof _sraAdEnd!='undefined'){
+for (var i in _sraAdEnd) {
+adlog=_sraAdEnd[i].split("#");
+_adLoadEnd+=adlog[0]+"="+(adlog[1]-ntStats.navigationStart)+"&";
+}
+}
+}
+else{
+if(typeof _adstartarr!='undefined'){
+for (var i in _adstartarr) {
+adlog=_adstartarr[i].split("#");
+adlog[0]=adlog[0].substring(0, adlog[0].lastIndexOf("_"));
+_adLoadStart+=adlog[0].replace('default_','s_')+"="+(adlog[1]-ntStats.navigationStart)+"&";
+}
+}
+if(typeof _adendarr!='undefined'){
+for (var i in _adendarr) {
+adlog=_adendarr[i].split("#");
+adlog[0]=adlog[0].substring(0, adlog[0].lastIndexOf("_"));
+_adLoadEnd+=adlog[0].replace('default_','e_')+"="+(adlog[1]-ntStats.navigationStart)+"&";
+}
+}
+}
+(new Image()).src = "http://track.reference.com/webtrack.gif?st=dict&pn=dic&ldid=0&login=N&ev=pl&"+_adLoadStart+_adLoadEnd+"pageoff="+page_start_offset+"&ns="+ntStats.navigationStart+"&fs="+(ntStats.fetchStart-ntStats.navigationStart)+"&ds="+(ntStats.domainLookupStart-ntStats.navigationStart) +"&de="+(ntStats.domainLookupEnd-ntStats.navigationStart) +"&cs="+(ntStats.connectStart-ntStats.navigationStart)+"&ce="+(ntStats.connectEnd-ntStats.navigationStart)+"&rqs="+(ntStats.requestStart-ntStats.navigationStart)+"&rs="+(ntStats.responseStart-ntStats.navigationStart)+"&re="+(ntStats.responseEnd-ntStats.navigationStart)+"&domld="+(ntStats.domLoading-ntStats.navigationStart) +"&domact="+(ntStats.domInteractive-ntStats.navigationStart)+"&domcs="+(ntStats.domContentLoadedEventStart-ntStats.navigationStart)+"&domce="+(ntStats.domContentLoadedEventEnd-ntStats.navigationStart)+"&domc="+(ntStats.domComplete-ntStats.navigationStart)+"&ls="+(ntStats.loadEventStart-ntStats.navigationStart)+"&le="+(ntStats.loadEventEnd-ntStats.navigationStart)+"&rf="+encodeURIComponent(document.referrer)+"&cb="+Math.floor(Math.random()*100000000);
+}
+}, 0);
+};
+</script>
+<script type="text/javascript">_detabFirst=false;</script>
+<style type="text/css">
+#dict_header_content img[width="15"] {
+display:none;
+}
+#wdcb{height:25px;width:25px;right:25px !important;}
+#scpromo {
+top:10px;
+left:0px;
+}
+@media screen and (max-width: 1245px)
+{
+#showbuyads{
+display:none !important;
+}
+}
+#seasonHdr{
+background-position: center -31px;
+}
+.seasonlogo{
+background-position: -29px -150px;
+}
+</style>
+<script type="text/javascript">
+$j(document).ready(function(){
+if(daisyPageName == "dic-spell" && typeof(googletag)!="undefined" ){
+if($j("#ss_slf").find("#dcomad_mid_160x600").length ==0){
+$j('#ss_slf').append('<div id="dcomad_mid_160x600"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("dcomad_mid_160x600"); });<\/script></div>');
+}
+}
+if($j('#showbuyads').css('display')=='block'){
+$j('#showbuyads').css('display','inline-block');
+}
+});
+if(typeof(_adbackgroundImage)!= 'undefined' && _adbackgroundImage ==""){
+_adbackgroundImage=undefined;
+}
+if(window.location.href.indexOf("www.reference.com/motif") > -1 || window.location.href.indexOf("answers.reference.com") > -1) {
+_detabFirst=false;
+}
+if(typeof $j != 'undefined'){
+$j(document).ready(function(){
+try{
+setTimeout(ghostwriter.flushloadhandlers, 250);
+}catch(e){
+//do nothing
+}})
+}
+function updateRecentCookie(){
+if(Cookie.isEnabled() && window.location.host.indexOf('dictionary')!=-1) {
+var val=Cookie.getCookie("recsrch");
+var checker=Cookie.getCookie("chk_del");
+if(val){
+if(checker == null){
+Cookie.deleteCookie('recsrch','/','.reference.com');
+var exp = new Date();
+exp.setFullYear(exp.getFullYear());
+exp.setMonth(exp.getMonth());
+exp.setDate(exp.getDate()+1);
+exp.setHours(0);
+exp.setMinutes(0);
+var domain= ".reference.com"
+Cookie.setCookie("chk_del", "true", exp, "/", domain);
+}
+}
+}
+}
+updateRecentCookie();
+if(Cookie.isEnabled() && window.location.host.indexOf('thesaurus')!=-1) {
+var bshval=Cookie.getCookie("bsh");
+if(bshval!=''){
+Cookie.deleteCookie('bsh','/','');
+var exp = new Date();
+exp.setFullYear(exp.getFullYear());
+exp.setMonth("11");
+exp.setDate("31");
+exp.setHours(0);
+exp.setMinutes(0);
+var domain= ".thesaurus.com"
+Cookie.setCookie("bsh",bshval, exp, "/", domain);
+}
+}
+</script>
+<script type="text/javascript">
+$j('body').delegate('#dic_result','mousedown',function(){
+pk(this,{"io":"0","m":"1clk","lk":"nn1ov4"});
+});
+</script>
+<script type="text/javascript">
+</script>
+<style type="text/css">
+#wdcb{
+right: 214px !important;
+top: -19px;
+}
+#nfotr
+{
+padding-bottom: 29px;
+}
+</style>
+<script type="text/javascript">
+$j(document).ready(function(){
+if($j("#lr").length && $j("#de").length && $j(".lr_skyad").length)
+{
+var fromTop=$j(".lr_skyad").offset().top;
+var top= 720-fromTop;
+if(top >0)
+{
+$j(".lr_skyad").css({'top':top,'position' :'relative'});
+}
+if(top >0 && (($j("#nfotr").offset().top) < ($j(".lr_skyad").offset().top+$j(".lr_skyad").height())))
+{
+$j("#de").css('height',($j("#nfotr").offset().top +top+200));
+}
+}
+}
+);
+</script>
+<script type="text/javascript">
+(new Image()).src = "http://track.reference.com/webtrack.gif?st=dict&pn=dic&ldid=0&qr=proof&lk=2ksc1p|12,jl79qz,1zv0ht|41,sz9zl7|2,yikftd|7,k3p087,jwc8dj,1zv0ht|41,5q219k,jhm3zj|4,5k1a4a|8&ev=i&rf="+encodeURIComponent(document.referrer)+"&cb="+Math.floor((Math.random()*899999999)+100000000);
+</script>
+</body>
+</html>

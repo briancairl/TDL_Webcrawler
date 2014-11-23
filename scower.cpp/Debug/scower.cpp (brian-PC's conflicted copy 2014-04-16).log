@@ -1,0 +1,170 @@
+﻿Build started 4/16/2014 6:19:17 PM.
+     1>Project "C:\Users\brian\Dropbox\lib_source_code\vs\scower.cpp\scower.cpp\scower.cpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\..\..\..\lib_source_code\cpp_c /I..\..\..\..\lib_source_code\cpp\libcurl\include /I..\..\..\..\lib_source_code\cpp\eigen /ZI /nologo /W3 /WX- /Od /Oy- /D NS_NO_INFO /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp wcAnalysis.cpp wcGraph.cpp wcSession.cpp
+         main.cpp
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(88): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(89): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(90): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\main.cpp(28): warning C4305: 'argument' : truncation from 'double' to 'const wcFloat'
+         Generating Code...
+         Compiling...
+         wcSession.cpp
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(88): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(89): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(90): warning C4172: returning address of local variable or temporary
+     1>c:\program files\microsoft visual studio 11.0\vc\include\xmemory0(617): warning C4244: 'argument' : conversion from 'std::chrono::system_clock::rep' to 'const wcFloat', possible loss of data
+                 c:\program files\microsoft visual studio 11.0\vc\include\xmemory0(751) : see reference to function template instantiation 'void std::allocator<_Ty>::construct<_Objty,wcString&,__int64,float,float>(_Objty *,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Ty=std::_List_node<wcPathPoint,void *>,
+                     _Objty=wcPathPoint,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\xmemory0(751) : see reference to function template instantiation 'void std::allocator<_Ty>::construct<_Objty,wcString&,__int64,float,float>(_Objty *,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Ty=std::_List_node<wcPathPoint,void *>,
+                     _Objty=wcPathPoint,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\xmemory0(903) : see reference to function template instantiation 'void std::allocator_traits<_Alloc>::construct<_Ty,wcString&,__int64,float,float>(std::allocator<_Other> &,_Objty *,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Alloc=std::allocator<std::_List_node<wcPathPoint,void *>>,
+                     _Ty=wcPathPoint,
+                     _Other=std::_List_node<wcPathPoint,void *>,
+                     _Objty=wcPathPoint,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\xmemory0(903) : see reference to function template instantiation 'void std::allocator_traits<_Alloc>::construct<_Ty,wcString&,__int64,float,float>(std::allocator<_Other> &,_Objty *,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Alloc=std::allocator<std::_List_node<wcPathPoint,void *>>,
+                     _Ty=wcPathPoint,
+                     _Other=std::_List_node<wcPathPoint,void *>,
+                     _Objty=wcPathPoint,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\list(850) : see reference to function template instantiation 'void std::_Wrap_alloc<_Alloc>::construct<_Ty,wcString&,__int64,float,float>(_Ty *,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Alloc=std::allocator<std::_List_node<wcPathPoint,void *>>,
+                     _Ty=wcPathPoint,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\list(850) : see reference to function template instantiation 'void std::_Wrap_alloc<_Alloc>::construct<_Ty,wcString&,__int64,float,float>(_Ty *,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Alloc=std::allocator<std::_List_node<wcPathPoint,void *>>,
+                     _Ty=wcPathPoint,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\list(1086) : see reference to function template instantiation 'std::_List_node<_Value_type,_Voidptr> *std::_List_buy<_Ty,_Alloc>::_Buynode<wcString&,__int64,float,float>(std::_List_node<_Value_type,_Voidptr> *,std::_List_node<_Value_type,_Voidptr> *,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Value_type=wcPathPoint,
+                     _Voidptr=void *,
+                     _Ty=wcPathPoint,
+                     _Alloc=std::allocator<wcPathPoint>,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\list(1086) : see reference to function template instantiation 'std::_List_node<_Value_type,_Voidptr> *std::_List_buy<_Ty,_Alloc>::_Buynode<wcString&,__int64,float,float>(std::_List_node<_Value_type,_Voidptr> *,std::_List_node<_Value_type,_Voidptr> *,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Value_type=wcPathPoint,
+                     _Voidptr=void *,
+                     _Ty=wcPathPoint,
+                     _Alloc=std::allocator<wcPathPoint>,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\list(1086) : see reference to function template instantiation 'void std::list<_Ty>::_Insert<wcString&,__int64,float,float>(std::_List_unchecked_const_iterator<_Mylist>,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Ty=wcPathPoint,
+                     _Mylist=std::_List_val<std::_List_simple_types<wcPathPoint>>,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\program files\microsoft visual studio 11.0\vc\include\list(1086) : see reference to function template instantiation 'void std::list<_Ty>::_Insert<wcString&,__int64,float,float>(std::_List_unchecked_const_iterator<_Mylist>,_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Ty=wcPathPoint,
+                     _Mylist=std::_List_val<std::_List_simple_types<wcPathPoint>>,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wcsession.cpp(106) : see reference to function template instantiation 'void std::list<_Ty>::emplace_back<wcString&,_Rep,wcFloat,wcFloat>(_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Ty=wcPathPoint,
+                     _Rep=std::chrono::system_clock::rep,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+                 c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wcsession.cpp(106) : see reference to function template instantiation 'void std::list<_Ty>::emplace_back<wcString&,_Rep,wcFloat,wcFloat>(_V0_t,_V1_t &&,_V2_t &&,_V3_t &&)' being compiled
+                 with
+                 [
+                     _Ty=wcPathPoint,
+                     _Rep=std::chrono::system_clock::rep,
+                     _V0_t=wcString &,
+                     _V1_t=std::chrono::system_clock::rep,
+                     _V2_t=wcFloat,
+                     _V3_t=wcFloat
+                 ]
+         wcGraph.cpp
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(88): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(89): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(90): warning C4172: returning address of local variable or temporary
+         wcAnalysis.cpp
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(88): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(89): warning C4172: returning address of local variable or temporary
+     1>c:\users\brian\dropbox\lib_source_code\vs\scower.cpp\scower.cpp\wccache.hpp(90): warning C4172: returning address of local variable or temporary
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\brian\Dropbox\lib_source_code\vs\scower.cpp\Debug\xmlbot.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\..\lib_source_code\cpp\libcurl libcurl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\brian\Dropbox\lib_source_code\vs\scower.cpp\Debug\xmlbot.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\brian\Dropbox\lib_source_code\vs\scower.cpp\Debug\xmlbot.lib" /MACHINE:X86 Debug\main.obj
+         Debug\wcAnalysis.obj
+         Debug\wcANN.obj
+         Debug\wcCache.obj
+         Debug\wcGlobal.obj
+         Debug\wcGraph.obj
+         Debug\wcMath.obj
+         Debug\wcSession.obj
+         Debug\wcTag.obj
+         Debug\wcTypes.obj
+         scower.cpp.vcxproj -> C:\Users\brian\Dropbox\lib_source_code\vs\scower.cpp\Debug\xmlbot.exe
+     1>Done Building Project "C:\Users\brian\Dropbox\lib_source_code\vs\scower.cpp\scower.cpp\scower.cpp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:38.24

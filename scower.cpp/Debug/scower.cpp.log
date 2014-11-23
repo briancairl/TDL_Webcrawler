@@ -1,0 +1,22 @@
+﻿Build started 4/25/2014 8:16:37 AM.
+     1>Project "C:\Users\Brian-Home\Dropbox\lib_source_code\vs\scower.cpp\scower.cpp\scower.cpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\..\..\..\lib_source_code\cpp_c /I..\..\..\..\lib_source_code\cpp\libcurl\include /I..\..\..\..\lib_source_code\cpp\eigen /ZI /nologo /W3 /WX- /Od /Oy- /D NS_NO_INFO /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt wcMath.cpp
+         wcMath.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brian-Home\Dropbox\lib_source_code\vs\scower.cpp\Debug\xmlbot.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\..\lib_source_code\cpp\libcurl libcurl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Brian-Home\Dropbox\lib_source_code\vs\scower.cpp\Debug\xmlbot.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Brian-Home\Dropbox\lib_source_code\vs\scower.cpp\Debug\xmlbot.lib" /MACHINE:X86 Debug\main.obj
+         Debug\wcAnalysis.obj
+         Debug\wcANN.obj
+         Debug\wcCache.obj
+         Debug\wcGlobal.obj
+         Debug\wcGraph.obj
+         Debug\wcMath.obj
+         Debug\wcSession.obj
+         Debug\wcTag.obj
+         Debug\wcTypes.obj
+         scower.cpp.vcxproj -> C:\Users\Brian-Home\Dropbox\lib_source_code\vs\scower.cpp\Debug\xmlbot.exe
+     1>Done Building Project "C:\Users\Brian-Home\Dropbox\lib_source_code\vs\scower.cpp\scower.cpp\scower.cpp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.78

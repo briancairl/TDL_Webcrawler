@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="V2">
+      <UniqueIdentifier>{ba772e1c-3ec0-4968-9d72-b330df3e8272}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="wcGraph.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="wcCache.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="wcTag.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="wcGlobal.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="wcAnalysis.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="wcTypes.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="wcSession.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="wcMath.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+    <ClCompile Include="wcANN.cpp">
+      <Filter>V2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="wcTypes.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcGraph.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcDef.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcCache.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcTag.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcGlobal.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcAnalysis.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcSession.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcMath.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+    <ClInclude Include="wcANN.hpp">
+      <Filter>V2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
